@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Security Now! Podcast</title>
+    <link>https://www.grc.com/securitynow.htm</link>
+    <description>Weekly Internet Security Podcast with Steve Gibson and Leo Laporte</description>
+
+    <item>
+        <title>Episode 1 - A SERIOUS new Windows vulnerability</title>
+        <link>https://media.grc.com/sn/sn-020.mp3</link>
+        <guid>https://media.grc.com/sn/sn-020.mp3</guid>
+        <pubDate>Fri, 19 Aug 2005 00:00:00 +0000</pubDate>
+        <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</description>
+        <enclosure url="https://media.grc.com/sn/sn-020.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 2 - VPNs Three: Hamachi, iPig, and OpenVPNLeo and I wrap up our multi-week, in-depth coverage of PC VPN solutions by discussing some aftermath of the zero-configuration Hamachi system; introducing "iPig," a very appealing new zero-configuration VPN contender; and describing the many faces of OpenVPN, the "Swiss army knife" of VPN solutions.</title>
+        <link>https://media.grc.com/sn/sn-019.mp3</link>
+        <guid>https://media.grc.com/sn/sn-019.mp3</guid>
+        <pubDate>Thu, 25 Aug 2005 00:00:00 +0000</pubDate>
+        <description>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</description>
+        <enclosure url="https://media.grc.com/sn/sn-019.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 3 - "Hamachi" Rocks!This week Leo and I discuss and describe the brand new, ready to emerge from a its long development beta phase, ultra-secure, lightweight, high-performance, highly-polished, multi-platform, peer-to-peer and FREE! personal virtual private networking system known as "Hamachi". After two solid weeks of testing and intense dialog with Hamachi's lead developer and designer, I have fully vetted the system's security architecture and have it running on many of my systems.  While I am travelling to Toronto this week, Hamachi is keeping my roaming laptop securely and directly connected to all of my machines back home. Don't miss this one!</title>
+        <link>https://media.grc.com/sn/sn-018.mp3</link>
+        <guid>https://media.grc.com/sn/sn-018.mp3</guid>
+        <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+        <description>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</description>
+        <enclosure url="https://media.grc.com/sn/sn-018.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 4 - PPTP and IPSec VPN TechnologyIn our continuing exploration of VPN technology for protecting network users on networks they don't control, Leo and I discuss the oldest "original" VPN protocols: Industry standard IPSec, and Microsoft's own PPTP and L2TP/IPSec.  We examine and explain the trouble with interconnecting Windows machines to third-party VPN routers and examine the many reasons these older technologies are probably not optimal for on-the-go road warriors.</title>
+        <link>https://media.grc.com/sn/sn-017.mp3</link>
+        <guid>https://media.grc.com/sn/sn-017.mp3</guid>
+        <pubDate>Thu, 08 Sep 2005 00:00:00 +0000</pubDate>
+        <description>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</description>
+        <enclosure url="https://media.grc.com/sn/sn-017.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 5 - Listener feedback Q&A #1Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies we have previously discussed.</title>
+        <link>https://media.grc.com/sn/sn-016.mp3</link>
+        <guid>https://media.grc.com/sn/sn-016.mp3</guid>
+        <pubDate>Thu, 15 Sep 2005 00:00:00 +0000</pubDate>
+        <description>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</description>
+        <enclosure url="https://media.grc.com/sn/sn-016.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 6 - VPN Secure Tunneling SolutionsLeo and I discuss the use of SSL and SSH encrypted tunneling for providing privacy and security whenever an insecure local network is being used</title>
+        <link>https://media.grc.com/sn/sn-015.mp3</link>
+        <guid>https://media.grc.com/sn/sn-015.mp3</guid>
+        <pubDate>Thu, 22 Sep 2005 00:00:00 +0000</pubDate>
+        <description>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" — from CRT glowing, to radio emissions, to LEDs lamps on the front of network equipment... to a microphone listening to anyone typing.</description>
+        <enclosure url="https://media.grc.com/sn/sn-015.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 7 - Virtual Private Networks (VPN): TheoryLeo and I first follow-up on the past two episodes, discussing new developments in the continuing Sony Rootkit DRM drama, and clearing up some confusion over the crackability of WPA passphrases.  Then, in this first of our two-part series on VPNs, we discuss the theory of VPN connections and tunnels, explaining how they work and why they represent such a terrific solution for anyone who needs security while they're away from home.</title>
+        <link>https://media.grc.com/sn/sn-014.mp3</link>
+        <guid>https://media.grc.com/sn/sn-014.mp3</guid>
+        <pubDate>Thu, 29 Sep 2005 00:00:00 +0000</pubDate>
+        <description>Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware. Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the Episode Notes Page for this episode!</description>
+        <enclosure url="https://media.grc.com/sn/sn-014.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 8 - Unbreakable WiFi SecurityLeo and I follow-up on last week's discussion of the Sony Rootkit debacle with the distressing news of "phoning home" (spyware) behavior from the Sony DRM software, and the rootkit's exploitation by a new malicious backdoor Trojan. We then return to complete our discussion of WiFi security, demystifying the many confusing flavors of WPA encryption and presenting several critical MUST DO tips for WPA users.</title>
+        <link>https://media.grc.com/sn/sn-013.mp3</link>
+        <guid>https://media.grc.com/sn/sn-013.mp3</guid>
+        <pubDate>Thu, 06 Oct 2005 00:00:00 +0000</pubDate>
+        <description>Distributed Denial of Service (DDoS) attacks are occurring with ever-greater frequency every day. Although these damaging attacks are often used to extort high-profile gaming and gambling sites before major gambling events, attacks are also launched against individual users who do something to annoy "zombie fleet masters" while they are online. Some router and firewall vendors claim that their devices prevent DDoS attacks. Is that possible? What can be done to dodge the bullet of a DDoS attack launched against you while you're online?</description>
+        <enclosure url="https://media.grc.com/sn/sn-013.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 9 - Sony's "Rootkit Technology" DRM (copy protection gone bad)Leo and I discuss details and consequences of Sony Corporation's alarming "Rootkit" DRM (digital rights management) copy protection scheme. This poorly written software unnecessarily employs classic rootkit technology (see episode #9) to hide from its users after installation. It can not be uninstalled easily, it can be easily misused for malicious purposes, and it has been implicated in many repeated BSOD "blue screen of death" PC crashes.</title>
+        <link>https://media.grc.com/sn/sn-012.mp3</link>
+        <guid>https://media.grc.com/sn/sn-012.mp3</guid>
+        <pubDate>Thu, 13 Oct 2005 00:00:00 +0000</pubDate>
+        <description>This week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.</description>
+        <enclosure url="https://media.grc.com/sn/sn-012.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 10 - Bad WiFi Security (WEP and MAC address filtering)Leo and I answer some questions arising from last week's episode, then plow into a detailed discussion of the lack of security value of MAC address filtering, the futility of disabling SSID's for security, and the extremely poor security offered by the first-generation WEP encryption system.</title>
+        <link>https://media.grc.com/sn/sn-011.mp3</link>
+        <guid>https://media.grc.com/sn/sn-011.mp3</guid>
+        <pubDate>Thu, 20 Oct 2005 00:00:00 +0000</pubDate>
+        <description>Leo and I examine the security and privacy considerations of using non-encrypted (i.e. 'Open') wireless access points at home and in public locations. We discuss the various ways of protecting privacy when untrusted strangers can 'sniff' the data traffic flowing to and from your online PC.</description>
+        <enclosure url="https://media.grc.com/sn/sn-011.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 11 - Open Wireless Access PointsLeo and I examine the security and privacy considerations of using non-encrypted (i.e. 'Open') wireless access points at home and in public locations. We discuss the various ways of protecting privacy when untrusted strangers can 'sniff' the data traffic flowing to and from your online PC.</title>
+        <link>https://media.grc.com/sn/sn-010.mp3</link>
+        <guid>https://media.grc.com/sn/sn-010.mp3</guid>
+        <pubDate>Thu, 27 Oct 2005 00:00:00 +0000</pubDate>
+        <description>Leo and I answer some questions arising from last week's episode, then plow into a detailed discussion of the lack of security value of MAC address filtering, the futility of disabling SSID's for security, and the extremely poor security offered by the first-generation WEP encryption system.</description>
+        <enclosure url="https://media.grc.com/sn/sn-010.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 12 - RootkitsThis week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.</title>
+        <link>https://media.grc.com/sn/sn-009.mp3</link>
+        <guid>https://media.grc.com/sn/sn-009.mp3</guid>
+        <pubDate>Thu, 03 Nov 2005 00:00:00 +0000</pubDate>
+        <description>Leo and I discuss details and consequences of Sony Corporation's alarming "Rootkit" DRM (digital rights management) copy protection scheme. This poorly written software unnecessarily employs classic rootkit technology (see episode #9) to hide from its users after installation. It can not be uninstalled easily, it can be easily misused for malicious purposes, and it has been implicated in many repeated BSOD "blue screen of death" PC crashes.</description>
+        <enclosure url="https://media.grc.com/sn/sn-009.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 13 - Denial of Service (DoS) AttacksDistributed Denial of Service (DDoS) attacks are occurring with ever-greater frequency every day. Although these damaging attacks are often used to extort high-profile gaming and gambling sites before major gambling events, attacks are also launched against individual users who do something to annoy "zombie fleet masters" while they are online. Some router and firewall vendors claim that their devices prevent DDoS attacks. Is that possible? What can be done to dodge the bullet of a DDoS attack launched against you while you're online?</title>
+        <link>https://media.grc.com/sn/sn-008.mp3</link>
+        <guid>https://media.grc.com/sn/sn-008.mp3</guid>
+        <pubDate>Thu, 10 Nov 2005 00:00:00 +0000</pubDate>
+        <description>Leo and I follow-up on last week's discussion of the Sony Rootkit debacle with the distressing news of "phoning home" (spyware) behavior from the Sony DRM software, and the rootkit's exploitation by a new malicious backdoor Trojan. We then return to complete our discussion of WiFi security, demystifying the many confusing flavors of WPA encryption and presenting several critical MUST DO tips for WPA users.</description>
+        <enclosure url="https://media.grc.com/sn/sn-008.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 14 - SPYaWAREnessAny contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware. Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the Episode Notes Page for this episode!</title>
+        <link>https://media.grc.com/sn/sn-007.mp3</link>
+        <guid>https://media.grc.com/sn/sn-007.mp3</guid>
+        <pubDate>Thu, 17 Nov 2005 00:00:00 +0000</pubDate>
+        <description>Leo and I first follow-up on the past two episodes, discussing new developments in the continuing Sony Rootkit DRM drama, and clearing up some confusion over the crackability of WPA passphrases. Then, in this first of our two-part series on VPNs, we discuss the theory of VPN connections and tunnels, explaining how they work and why they represent such a terrific solution for anyone who needs security while they're away from home.</description>
+        <enclosure url="https://media.grc.com/sn/sn-007.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 15 - Mechanical & Electromagnetic Information LeakageTriggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage"</title>
+        <link>https://media.grc.com/sn/sn-006.mp3</link>
+        <guid>https://media.grc.com/sn/sn-006.mp3</guid>
+        <pubDate>Thu, 24 Nov 2005 00:00:00 +0000</pubDate>
+        <description>Leo and I discuss the use of SSL and SSH encrypted tunneling for providing privacy and security whenever an insecure local network is being used — such as at an open WiFi hotspot or when using a hotel's network. These solutions are not transparent and tend to be configuration intensive. They also require the use of a "server" of some sort at the user's home or office. This makes these approaches less suitable for casual users, but offers a solution for the more technically inclined road warriors.</description>
+        <enclosure url="https://media.grc.com/sn/sn-006.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 16 - Personal Password Policy</title>
+        <link>https://media.grc.com/sn/sn-005.mp3</link>
+        <guid>https://media.grc.com/sn/sn-005.mp3</guid>
+        <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+        <description>Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies we have previously discussed.</description>
+        <enclosure url="https://media.grc.com/sn/sn-005.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 17 - Personal Password PolicyEveryone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</title>
+        <link>https://media.grc.com/sn/sn-004.mp3</link>
+        <guid>https://media.grc.com/sn/sn-004.mp3</guid>
+        <pubDate>Thu, 08 Dec 2005 00:00:00 +0000</pubDate>
+        <description>In our continuing exploration of VPN technology for protecting network users on networks they don't control, Leo and I discuss the oldest "original" VPN protocols: Industry standard IPSec, and Microsoft's own PPTP and L2TP/IPSec. We examine and explain the trouble with interconnecting Windows machines to third-party VPN routers and examine the many reasons these older technologies are probably not optimal for on-the-go road warriors.</description>
+        <enclosure url="https://media.grc.com/sn/sn-004.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 18 - NAT Routers as FirewallsMost people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</title>
+        <link>https://media.grc.com/sn/sn-003.mp3</link>
+        <guid>https://media.grc.com/sn/sn-003.mp3</guid>
+        <pubDate>Thu, 15 Dec 2005 00:00:00 +0000</pubDate>
+        <description>This week Leo and I discuss and describe the brand new, ready to emerge from a its long development beta phase, ultra-secure, lightweight, high-performance, highly-polished, multi-platform, peer-to-peer and FREE! personal virtual private networking system known as "Hamachi". After two solid weeks of testing and intense dialog with Hamachi's lead developer and designer, I have fully vetted the system's security architecture and have it running on many of my systems. While I am travelling to Toronto this week, Hamachi is keeping my roaming laptop securely and directly connected to all of my machines back home. Don't miss this one!</description>
+        <enclosure url="https://media.grc.com/sn/sn-003.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 19 - " HoneyMonkeys "How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</title>
+        <link>https://media.grc.com/sn/sn-002.mp3</link>
+        <guid>https://media.grc.com/sn/sn-002.mp3</guid>
+        <pubDate>Thu, 22 Dec 2005 00:00:00 +0000</pubDate>
+        <description>Leo and I wrap up our multi-week, in-depth coverage of PC VPN solutions by discussing some aftermath of the zero-configuration Hamachi system; introducing "iPig," a very appealing new zero-configuration VPN contender; and describing the many faces of OpenVPN, the "Swiss army knife" of VPN solutions.</description>
+        <enclosure url="https://media.grc.com/sn/sn-002.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>Episode 20 - As the Worm Turns</title>
+        <link>https://media.grc.com/sn/sn-001.mp3</link>
+        <guid>https://media.grc.com/sn/sn-001.mp3</guid>
+        <pubDate>Thu, 29 Dec 2005 00:00:00 +0000</pubDate>
+        <description>On December 28th a serious new Windows vulnerability has appeared and been immediately exploited by a growing number of malicious web sites to install malware. Many worse viruses and worms are expected soon. We start off discussing this and our show notes provides a quick necessary workaround until Microsoft provides a patch. Then we spend the next 45 minutes answering and discussing interesting listener questions.</description>
+        <enclosure url="https://media.grc.com/sn/sn-001.mp3" type="audio/mpeg"/>
+    </item>
+
+</channel>
+</rss>
