@@ -1,19 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Security Now! (Archive)</title>
     <link>https://www.grc.com/securitynow.htm</link>
-    <description>Security Now! Weekly Internet Security Podcast</description>
+    <description>Security Now with Steve Gibson and Leo Laporte, covering the latest security news and topics.</description>
     <language>en-us</language>
-<image>
+    <itunes:author>Steve Gibson & Leo Laporte</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <image>
 <title>Security Now! (Archive)</title>
 <url>https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg</url>
 <link>https://twit.tv/shows/security-now</link>
 </image>
 
+    <!-- Episode 20 -->
     <item>
-      <title>A SERIOUS new Windows vulnerability — and Listener Q&A</title>
-      <itunes:title>A SERIOUS new Windows vulnerability — and Listener Q&A</itunes:title>
+      <title>A Serious Windows Vulnerability and Listener Q&A</title>
+      <itunes:title>A Serious Windows Vulnerability and Listener Q&A</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Security Now</itunes:author>
       <pubDate>29 Dec 2005</pubDate>
@@ -23,11 +26,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>54 min.</itunes:duration>
-      <description><![CDATA[On December 28th a serious new Windows vulnerability appeared and was exploited by a growing number of malicious websites. Listener questions also discussed.]]></description>
+      <description><![CDATA[In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-020.mp3" length="26000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-020.mp3</guid>
     </item>
-
+    
+    <!-- Episode 19 -->
     <item>
       <title>VPNs Three: Hamachi, iPig, and OpenVPN</title>
       <itunes:title>VPNs Three: Hamachi, iPig, and OpenVPN</itunes:title>
@@ -40,11 +44,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>53 min.</itunes:duration>
-      <description><![CDATA[Leo and I wrap up our multi-week coverage of VPN solutions, including Hamachi, iPig, and OpenVPN.]]></description>
+      <description><![CDATA[This episode wraps up Steve and Leo's multi-week VPN series, focusing on zero-configuration VPN solutions such as Hamachi and iPig, and exploring the powerful OpenVPN platform.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-019.mp3" length="25000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-019.mp3</guid>
     </item>
 
+    <!-- Episode 18 -->
     <item>
       <title>"Hamachi" Rocks!</title>
       <itunes:title>"Hamachi" Rocks!</itunes:title>
@@ -57,11 +62,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>33 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss the ultra-secure Hamachi VPN system.]]></description>
+      <description><![CDATA[In this episode, Steve and Leo dive into Hamachi, a secure and free personal virtual private network (VPN) system. They discuss its features and the benefits of using it for secure connections.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-018.mp3" length="16000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-018.mp3</guid>
     </item>
 
+    <!-- Episode 17 -->
     <item>
       <title>PPTP and IPSec VPN Technology</title>
       <itunes:title>PPTP and IPSec VPN Technology</itunes:title>
@@ -74,11 +80,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>33 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss VPN technology, including IPSec and PPTP protocols, for road warriors.]]></description>
+      <description><![CDATA[In this episode, Steve and Leo continue their exploration of VPN technology, covering PPTP, IPSec, and Microsoft's L2TP/IPSec. They discuss the challenges of connecting Windows machines to third-party VPN routers.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-017.mp3" length="16000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-017.mp3</guid>
     </item>
 
+    <!-- Episode 16 -->
     <item>
       <title>Listener Feedback Q&A #1</title>
       <itunes:title>Listener Feedback Q&A #1</itunes:title>
@@ -91,11 +98,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>42 min.</itunes:duration>
-      <description><![CDATA[Leo and I answer questions from listeners, covering various topics in security.]]></description>
+      <description><![CDATA[Steve and Leo answer listener questions, clarifying confusion and exploring real-world applications for security technologies discussed in previous episodes.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-016.mp3" length="20000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-016.mp3</guid>
     </item>
 
+    <!-- Episode 15 -->
     <item>
       <title>VPN Secure Tunneling Solutions</title>
       <itunes:title>VPN Secure Tunneling Solutions</itunes:title>
@@ -108,11 +116,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>43 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss VPN encrypted tunneling with SSL and SSH for road warriors.]]></description>
+      <description><![CDATA[In this episode, Steve and Leo discuss VPN tunneling solutions such as SSL and SSH for encrypting traffic on insecure networks, like public Wi-Fi hotspots, and offer advanced VPN solutions for road warriors.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-015.mp3" length="21000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-015.mp3</guid>
     </item>
 
+    <!-- Episode 14 -->
     <item>
       <title>Virtual Private Networks (VPN): Theory</title>
       <itunes:title>Virtual Private Networks (VPN): Theory</itunes:title>
@@ -125,11 +134,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>27 min.</itunes:duration>
-      <description><![CDATA[Leo and I explain the theory behind VPN connections and how they provide secure tunnels.]]></description>
+      <description><![CDATA[Steve and Leo discuss the theory behind VPNs, explaining how they work and why they are an essential solution for secure communication over untrusted networks.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-014.mp3" length="13000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-014.mp3</guid>
     </item>
 
+    <!-- Episode 13 -->
     <item>
       <title>Unbreakable WiFi Security</title>
       <itunes:title>Unbreakable WiFi Security</itunes:title>
@@ -142,11 +152,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>35 min.</itunes:duration>
-      <description><![CDATA[Leo and I complete the discussion of WiFi security and WPA encryption.]]></description>
+      <description><![CDATA[This episode covers the current state of WiFi security, focusing on WPA encryption and providing tips to help users secure their WiFi networks against attacks.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-013.mp3" length="17000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-013.mp3</guid>
     </item>
 
+    <!-- Episode 12 -->
     <item>
       <title>Sony's "Rootkit Technology" DRM</title>
       <itunes:title>Sony's "Rootkit Technology" DRM</itunes:title>
@@ -159,11 +170,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>24 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss the controversy of Sony's "Rootkit Technology" DRM and the implications.]]></description>
+      <description><![CDATA[Steve and Leo discuss Sony's controversial DRM rootkit technology, which hides itself from users and can cause system issues, opening doors to security vulnerabilities.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-012.mp3" length="12000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-012.mp3</guid>
     </item>
 
+    <!-- Episode 11 -->
     <item>
       <title>Bad WiFi Security (WEP and MAC address filtering)</title>
       <itunes:title>Bad WiFi Security (WEP and MAC address filtering)</itunes:title>
@@ -176,11 +188,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>38 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss the weak security of WEP and MAC address filtering in WiFi networks.]]></description>
+      <description><![CDATA[Steve and Leo dive into the weak security of WEP encryption and why MAC address filtering is ineffective. They provide alternative methods to secure WiFi networks.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-011.mp3" length="18000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-011.mp3</guid>
     </item>
 
+    <!-- Episode 10 -->
     <item>
       <title>Open Wireless Access Points</title>
       <itunes:title>Open Wireless Access Points</itunes:title>
@@ -193,11 +206,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>28 min.</itunes:duration>
-      <description><![CDATA[Leo and I examine the privacy and security risks of open wireless access points.]]></description>
+      <description><![CDATA[Steve and Leo discuss the risks and privacy concerns of using non-encrypted (open) wireless access points, and they provide advice for protecting online privacy.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-010.mp3" length="14000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-010.mp3</guid>
     </item>
 
+    <!-- Episode 9 -->
     <item>
       <title>Rootkits</title>
       <itunes:title>Rootkits</itunes:title>
@@ -210,11 +224,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>32 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss what rootkits are, why they are a growing problem, and how to detect and remove them.]]></description>
+      <description><![CDATA[This episode explains the concept of rootkits, why they are a growing security problem, and how to detect and remove them using free tools.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-009.mp3" length="16000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-009.mp3</guid>
     </item>
 
+    <!-- Episode 8 -->
     <item>
       <title>Denial of Service (DoS) Attacks</title>
       <itunes:title>Denial of Service (DoS) Attacks</itunes:title>
@@ -227,11 +242,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>24 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss distributed denial-of-service (DDoS) attacks and how to protect against them.]]></description>
+      <description><![CDATA[Steve and Leo explain Distributed Denial of Service (DDoS) attacks, how they work, and the defenses that can be employed to prevent or mitigate such attacks.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-008.mp3" length="12000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-008.mp3</guid>
     </item>
 
+    <!-- Episode 7 -->
     <item>
       <title>SPYaWAREness</title>
       <itunes:title>SPYaWAREness</itunes:title>
@@ -244,11 +260,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>36 min.</itunes:duration>
-      <description><![CDATA[Leo and I cover the history, current state, and future of spyware.]]></description>
+      <description><![CDATA[Steve and Leo focus on the history, current state, and future of spyware, covering its evolution and the dangers it poses to users' privacy and security.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-007.mp3" length="17000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-007.mp3</guid>
     </item>
 
+    <!-- Episode 6 -->
     <item>
       <title>Mechanical & Electromagnetic Information Leakage</title>
       <itunes:title>Mechanical & Electromagnetic Information Leakage</itunes:title>
@@ -261,14 +278,15 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>18 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss alternative forms of information leakage from mechanical and electromagnetic signals.]]></description>
+      <description><![CDATA[This episode explores the world of alternative information leakage, covering how information can be unintentionally leaked through electromagnetic emissions, mechanical vibrations, and other non-conventional means.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-006.mp3" length="8700000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-006.mp3</guid>
     </item>
 
+    <!-- Episode 5 -->
     <item>
-      <title>Personal Password Policy - Part 2</title>
-      <itunes:title>Personal Password Policy - Part 2</itunes:title>
+      <title>Personal Password Policy &#151; Part 2</title>
+      <itunes:title>Personal Password Policy &#151; Part 2</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Security Now</itunes:author>
       <pubDate>15 Sep 2005</pubDate>
@@ -278,11 +296,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>20 min.</itunes:duration>
-      <description><![CDATA[Leo and I continue our discussion on personal password policies, responding to listener feedback.]]></description>
+      <description><![CDATA[Steve and Leo follow up on their previous episode about personal password policies, sharing listener feedback and additional tips for creating strong, secure passwords.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-005.mp3" length="9500000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-005.mp3</guid>
     </item>
 
+    <!-- Episode 4 -->
     <item>
       <title>Personal Password Policy</title>
       <itunes:title>Personal Password Policy</itunes:title>
@@ -295,11 +314,12 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>24 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss the importance of creating secure passwords and share tips on how to create unbreakable ones.]]></description>
+      <description><![CDATA[In this episode, Steve and Leo provide advice on how to create strong, unbreakable passwords, and why this is crucial for securing online accounts and services.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-004.mp3" length="12000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-004.mp3</guid>
     </item>
 
+    <!-- Episode 3 -->
     <item>
       <title>NAT Routers as Firewalls</title>
       <itunes:title>NAT Routers as Firewalls</itunes:title>
@@ -308,18 +328,19 @@
       <pubDate>01 Sep 2005</pubDate>
       <itunes:episode>3</itunes:episode>
       <podcast:episode>3</podcast:episode>
-      <link>https://www.grc.com/nat/nat.htm</link>
+      <link>https://www.grc.com/sn/notes-003.htm</link>
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>25 min.</itunes:duration>
-      <description><![CDATA[Leo and I explain how NAT routers provide firewall security for networks and what settings to modify.]]></description>
+      <description><![CDATA[Steve and Leo explain how NAT routers provide hardware firewall protection, and which settings should be changed to maximize the security of a NAT router.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-003.mp3" length="12000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-003.mp3</guid>
     </item>
 
+    <!-- Episode 2 -->
     <item>
-      <title>"HoneyMonkeys"</title>
-      <itunes:title>"HoneyMonkeys"</itunes:title>
+      <title>" HoneyMonkeys "</title>
+      <itunes:title>" HoneyMonkeys "</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Security Now</itunes:author>
       <pubDate>25 Aug 2005</pubDate>
@@ -329,14 +350,15 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>25 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss Microsoft's "HoneyMonkey" system and its role in finding malicious websites.]]></description>
+      <description><![CDATA[Steve and Leo describe how Microsoft's "HoneyMonkey" system identifies malicious websites and how Microsoft handles the security data collected.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-002.mp3" length="12000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-002.mp3</guid>
     </item>
 
+    <!-- Episode 1 -->
     <item>
-      <title>As the Worm Turns</title>
-      <itunes:title>As the Worm Turns</itunes:title>
+      <title>As the Worm Turns &#151; the first Internet worms of 2005</title>
+      <itunes:title>As the Worm Turns &#151; the first Internet worms of 2005</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Security Now</itunes:author>
       <pubDate>19 Aug 2005</pubDate>
@@ -346,7 +368,7 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>18 min.</itunes:duration>
-      <description><![CDATA[Leo and I discuss the rise of Internet worms exploiting newly discovered Windows vulnerabilities.]]></description>
+      <description><![CDATA[Steve and Leo explain how a Windows vulnerability was exploited by the first Internet worms of 2005, and what this event means for the future of online security.]]></description>
       <enclosure url="https://media.grc.com/sn/sn-001.mp3" length="8700000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-001.mp3</guid>
     </item>
