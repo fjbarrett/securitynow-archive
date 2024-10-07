@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Security Now Podcast</title>
+    <title>Security Now Podcast (Archive)</title>
     <link>https://www.grc.com/securitynow.htm</link>
     <description>Security Now! Weekly Internet Security Podcast</description>
     <language>en-us</language>
+    <image>
+<title>Security Now (Audio)</title>
+<image>
+<title>Security Now (Audio)</title>
+<url>https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg</url>
+<link>https://twit.tv/shows/security-now</link>
+</image>
+<link>https://twit.tv/shows/security-now</link>
+</image>
 
     <item>
       <title>A SERIOUS new Windows vulnerability — and Listener Q&A</title>
