@@ -1,173 +1,350 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<channel>
-<title>Security Now!</title>
-<link>https://www.grc.com/securitynow.htm</link>
-<description>Our weekly audio security column &amp; podcast by Steve Gibson and Leo Laporte</description>
-<language>en-us</language>
-<lastBuildDate>Fri, 29 Dec 2005 00:00:00 GMT</lastBuildDate>
-<pubDate>Fri, 29 Dec 2005 00:00:00 GMT</pubDate>
-<ttl>60</ttl>
-<generator>Custom Script</generator>
-<!-- Episode 20 -->
-<item>
-<title>Episode #20 - A SERIOUS new Windows vulnerability — and Listener Q&amp;A</title>
-<description>On December 28th &lt;a href="/sn/notes-020.htm"&gt;a serious new Windows vulnerability&lt;/a&gt; has appeared and been immediately exploited by a growing number of malicious web sites to install malware. Many worse viruses and worms are expected soon. We start off discussing this and &lt;a href="/sn/notes-020.htm"&gt;our show notes provides a quick necessary workaround&lt;/a&gt; until Microsoft provides a patch. Then we spend the next 45 minutes answering and discussing interesting listener questions.</description>
-<pubDate>Thu, 29 Dec 2005 00:00:00 GMT</pubDate>
-<enclosure length="27262976" type="audio/mpeg" url="https://media.grc.com/sn/sn-020.mp3"/>
-<guid isPermaLink="false">sn-020</guid>
-</item>
-<!-- Episode 19 -->
-<item>
-<title>Episode #19 - VPNs Three: Hamachi, iPig, and OpenVPN</title>
-<description>Leo and I wrap up our multi-week, in-depth coverage of PC VPN solutions by discussing some aftermath of the zero-configuration Hamachi system; introducing "iPig," a very appealing new zero-configuration VPN contender; and describing the many faces of OpenVPN, the "Swiss army knife" of VPN solutions.</description>
-<pubDate>Thu, 22 Dec 2005 00:00:00 GMT</pubDate>
-<enclosure length="26214400" type="audio/mpeg" url="https://media.grc.com/sn/sn-019.mp3"/>
-<guid isPermaLink="false">sn-019</guid>
-</item>
-<!-- Episode 18 -->
-<item>
-<title>Episode #18 - "Hamachi" Rocks!</title>
-<description>This week Leo and I discuss and describe the brand new, ready to emerge from its long development beta phase, ultra-secure, lightweight, high-performance, highly-polished, multi-platform, peer-to-peer and FREE! personal virtual private networking system known as "&lt;a href="http://www.hamachi.cc"&gt;&lt;b&gt;Hamachi&lt;/b&gt;&lt;/a&gt;". After two solid weeks of testing and intense dialog with Hamachi's lead developer and designer, I have fully vetted the system's security architecture and have it running on many of my systems. While I am traveling to Toronto this week, Hamachi is keeping my roaming laptop securely and directly connected to all of my machines back home. Don't miss this one!</description>
-<pubDate>Thu, 15 Dec 2005 00:00:00 GMT</pubDate>
-<enclosure length="16777216" type="audio/mpeg" url="https://media.grc.com/sn/sn-018.mp3"/>
-<guid isPermaLink="false">sn-018</guid>
-</item>
-<!-- Episode 17 -->
-<item>
-<title>Episode #17 - PPTP and IPSec VPN Technology</title>
-<description>In our continuing exploration of VPN technology for protecting network users on networks they don't control, Leo and I discuss the oldest "original" VPN protocols: Industry standard IPSec, and Microsoft's own PPTP and L2TP/IPSec. We examine and explain the trouble with interconnecting Windows machines to third-party VPN routers and examine the many reasons these older technologies are probably not optimal for on-the-go road warriors.</description>
-<pubDate>Thu, 8 Dec 2005 00:00:00 GMT</pubDate>
-<enclosure length="16777216" type="audio/mpeg" url="https://media.grc.com/sn/sn-017.mp3"/>
-<guid isPermaLink="false">sn-017</guid>
-</item>
-<!-- Episode 16 -->
-<item>
-<title>Episode #16 - Listener feedback Q&amp;A #1</title>
-<description>Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies we have previously discussed.</description>
-<pubDate>Thu, 1 Dec 2005 00:00:00 GMT</pubDate>
-<enclosure length="20971520" type="audio/mpeg" url="https://media.grc.com/sn/sn-016.mp3"/>
-<guid isPermaLink="false">sn-016</guid>
-</item>
-<!-- Episode 15 -->
-<item>
-<title>Episode #15 - VPN Secure Tunneling Solutions</title>
-<description>Leo and I discuss the use of SSL and SSH encrypted tunneling for providing privacy and security whenever an insecure local network is being used — such as at an open WiFi hotspot or when using a hotel's network. These solutions are not transparent and tend to be configuration intensive. They also require the use of a "server" of some sort at the user's home or office. This makes these approaches less suitable for casual users, but offers a solution for the more technically inclined road warriors.</description>
-<pubDate>Thu, 24 Nov 2005 00:00:00 GMT</pubDate>
-<enclosure length="22020096" type="audio/mpeg" url="https://media.grc.com/sn/sn-015.mp3"/>
-<guid isPermaLink="false">sn-015</guid>
-</item>
-<!-- Episode 14 -->
-<item>
-<title>Episode #14 - Virtual Private Networks (VPN): Theory</title>
-<description>Leo and I first follow-up on the past two episodes, discussing new developments in the continuing Sony Rootkit DRM drama, and clearing up some confusion over the crackability of WPA passphrases. Then, in this first of our two-part series on VPNs, we discuss the theory of VPN connections and tunnels, explaining how they work and why they represent such a terrific solution for anyone who needs security while they're away from home.</description>
-<pubDate>Thu, 17 Nov 2005 00:00:00 GMT</pubDate>
-<enclosure length="13631488" type="audio/mpeg" url="https://media.grc.com/sn/sn-014.mp3"/>
-<guid isPermaLink="false">sn-014</guid>
-</item>
-<!-- Episode 13 -->
-<item>
-<title>Episode #13 - Unbreakable WiFi Security</title>
-<description>Leo and I follow-up on last week's discussion of the Sony Rootkit debacle with the distressing news of "phoning home" (spyware) behavior from the Sony DRM software, and the rootkit's exploitation by a new malicious backdoor Trojan. We then return to complete our discussion of WiFi security, demystifying the many confusing flavors of WPA encryption and presenting several critical MUST DO tips for WPA users.</description>
-<pubDate>Thu, 10 Nov 2005 00:00:00 GMT</pubDate>
-<enclosure length="17825792" type="audio/mpeg" url="https://media.grc.com/sn/sn-013.mp3"/>
-<guid isPermaLink="false">sn-013</guid>
-</item>
-<!-- Episode 12 -->
-<item>
-<title>Episode #12 - Sony's "Rootkit Technology" DRM (copy protection gone bad)</title>
-<description>Leo and I discuss details and consequences of Sony Corporation's alarming "Rootkit" DRM (digital rights management) copy protection scheme. This poorly written software unnecessarily employs classic rootkit technology (see episode #9) to hide from its users after installation. It cannot be uninstalled easily, it can be easily misused for malicious purposes, and it has been implicated in many repeated BSOD "blue screen of death" PC crashes.</description>
-<pubDate>Thu, 3 Nov 2005 00:00:00 GMT</pubDate>
-<enclosure length="12582912" type="audio/mpeg" url="https://media.grc.com/sn/sn-012.mp3"/>
-<guid isPermaLink="false">sn-012</guid>
-</item>
-<!-- Episode 11 -->
-<item>
-<title>Episode #11 - Bad WiFi Security (WEP and MAC address filtering)</title>
-<description>Leo and I answer some questions arising from last week's episode, then plow into a detailed discussion of the lack of security value of MAC address filtering, the futility of disabling SSIDs for security, and the extremely poor security offered by the first-generation WEP encryption system.</description>
-<pubDate>Thu, 27 Oct 2005 00:00:00 GMT</pubDate>
-<enclosure length="18874368" type="audio/mpeg" url="https://media.grc.com/sn/sn-011.mp3"/>
-<guid isPermaLink="false">sn-011</guid>
-</item>
-<!-- Episode 10 -->
-<item>
-<title>Episode #10 - Open Wireless Access Points</title>
-<description>Leo and I examine the security and privacy considerations of using non-encrypted (i.e. 'Open') wireless access points at home and in public locations. We discuss the various ways of protecting privacy when untrusted strangers can 'sniff' the data traffic flowing to and from your online PC.</description>
-<pubDate>Thu, 20 Oct 2005 00:00:00 GMT</pubDate>
-<enclosure length="14680064" type="audio/mpeg" url="https://media.grc.com/sn/sn-010.mp3"/>
-<guid isPermaLink="false">sn-010</guid>
-</item>
-<!-- Episode 9 -->
-<item>
-<title>Episode #9 - Rootkits</title>
-<description>This week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.</description>
-<pubDate>Thu, 13 Oct 2005 00:00:00 GMT</pubDate>
-<enclosure length="16777216" type="audio/mpeg" url="https://media.grc.com/sn/sn-009.mp3"/>
-<guid isPermaLink="false">sn-009</guid>
-</item>
-<!-- Episode 8 -->
-<item>
-<title>Episode #8 - Denial of Service (DoS) Attacks</title>
-<description>Distributed Denial of Service (DDoS) attacks are occurring with ever-greater frequency every day. Although these damaging attacks are often used to extort high-profile gaming and gambling sites before major gambling events, attacks are also launched against individual users who do something to annoy "zombie fleet masters" while they are online. Some router and firewall vendors claim that their devices prevent DDoS attacks. Is that possible? What can be done to dodge the bullet of a DDoS attack launched against you while you're online?</description>
-<pubDate>Thu, 6 Oct 2005 00:00:00 GMT</pubDate>
-<enclosure length="12582912" type="audio/mpeg" url="https://media.grc.com/sn/sn-008.mp3"/>
-<guid isPermaLink="false">sn-008</guid>
-</item>
-<!-- Episode 7 -->
-<item>
-<title>Episode #7 - SPYaWAREness</title>
-<description>Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware. Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the &lt;a href="/sn/notes-007.htm"&gt;Episode Notes Page&lt;/a&gt; for this episode!</description>
-<pubDate>Thu, 29 Sep 2005 00:00:00 GMT</pubDate>
-<enclosure length="17825792" type="audio/mpeg" url="https://media.grc.com/sn/sn-007.mp3"/>
-<guid isPermaLink="false">sn-007</guid>
-</item>
-<!-- Episode 6 -->
-<item>
-<title>Episode #6 - Mechanical &amp; Electromagnetic Information Leakage</title>
-<description>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" — from CRT glowing, to radio emissions, to LEDs lamps on the front of network equipment... to a microphone listening to anyone typing.</description>
-<pubDate>Thu, 22 Sep 2005 00:00:00 GMT</pubDate>
-<enclosure length="9122611" type="audio/mpeg" url="https://media.grc.com/sn/sn-006.mp3"/>
-<guid isPermaLink="false">sn-006</guid>
-</item>
-<!-- Episode 5 -->
-<item>
-<title>Episode #5 - Personal Password Policy — Part 2</title>
-<description>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</description>
-<pubDate>Thu, 15 Sep 2005 00:00:00 GMT</pubDate>
-<enclosure length="9961472" type="audio/mpeg" url="https://media.grc.com/sn/sn-005.mp3"/>
-<guid isPermaLink="false">sn-005</guid>
-</item>
-<!-- Episode 4 -->
-<item>
-<title>Episode #4 - Personal Password Policy</title>
-<description>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</description>
-<pubDate>Thu, 8 Sep 2005 00:00:00 GMT</pubDate>
-<enclosure length="12582912" type="audio/mpeg" url="https://media.grc.com/sn/sn-004.mp3"/>
-<guid isPermaLink="false">sn-004</guid>
-</item>
-<!-- Episode 3 -->
-<item>
-<title>Episode #3 - NAT Routers as Firewalls</title>
-<description>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</description>
-<pubDate>Thu, 1 Sep 2005 00:00:00 GMT</pubDate>
-<enclosure length="12582912" type="audio/mpeg" url="https://media.grc.com/sn/sn-003.mp3"/>
-<guid isPermaLink="false">sn-003</guid>
-</item>
-<!-- Episode 2 -->
-<item>
-<title>Episode #2 - "HoneyMonkeys"</title>
-<description>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</description>
-<pubDate>Thu, 25 Aug 2005 00:00:00 GMT</pubDate>
-<enclosure length="12582912" type="audio/mpeg" url="https://media.grc.com/sn/sn-002.mp3"/>
-<guid isPermaLink="false">sn-002</guid>
-</item>
-<!-- Episode 1 -->
-<item>
-<title>Episode #1 - As the Worm Turns — the first Internet worms of 2005</title>
-<description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</description>
-<pubDate>Fri, 19 Aug 2005 00:00:00 GMT</pubDate>
-<enclosure length="9122611" type="audio/mpeg" url="https://media.grc.com/sn/sn-001.mp3"/>
-<guid isPermaLink="false">sn-001</guid>
-</item>
-<item><title>Episode 124: Listener Feedback #31</title><description>Listener Feedback #31Leo and I discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 27 Dec 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-124.mp3"/><guid isPermaLink="false">sn-124</guid></item><item><title>Episode 123: Jungle Disk</title><description>Jungle DiskLeo and I invite Jungle Disk's creator, Dave Wright, to join the podcast to talk about his $20 product that allows for extremely economical, efficient, seamless and absolutely secure online storage of any user data within Amazon's high-performance, high-reliability "S3" storage facility.</description><pubDate>Thu, 20 Dec 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-123.mp3"/><guid isPermaLink="false">sn-123</guid></item><item><title>Episode 122: Listener Feedback #30</title><description>Listener Feedback #30Leo and I discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-122.mp3"/><guid isPermaLink="false">sn-122</guid></item><item><title>Episode 121: Is Privacy Dead?</title><description>Is Privacy Dead?This week Steve and Leo take a break from the details of bits and bytes to discuss and explore the many issues surrounding the gradual and inexorable ebbing of individual privacy as we (consumers) rely increasingly upon the seductive power of digital-domain services.</description><pubDate>Thu, 06 Dec 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-121.mp3"/><guid isPermaLink="false">sn-121</guid></item><item><title>Episode 120: Listener Feedback #29</title><description>Listener Feedback #29Leo and I discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 29 Nov 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-120.mp3"/><guid isPermaLink="false">sn-120</guid></item><item><title>Episode 119: PayPal and DoubleClick</title><description>PayPal and DoubleClickLeo and I dissect the "Links" on PayPal's site with an eye toward reverse engineering the reason for many of them routing PayPal's users through servers owned by DoubleClick. We carefully explain the nature of the significant privacy concerns raised by this practice.</description><pubDate>Thu, 22 Nov 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-119.mp3"/><guid isPermaLink="false">sn-119</guid></item><item><title>Episode 118: Listener Feedback #28</title><description>Listener Feedback #28Leo and I discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 15 Nov 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-118.mp3"/><guid isPermaLink="false">sn-118</guid></item><item><title>Episode 117: Even More Perfect paper Passwords</title><description>Even More Perfect paper PasswordsLeo and I discuss the updated second version of our Perfect Paper Passwords (PPP) system and examine a number of interesting subtle questions such as whether it's better to have fully random equally probable passwords or true one-time-only passwords; and how, whether, and why attack strategies affect that decision.</description><pubDate>Thu, 08 Nov 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-117.mp3"/><guid isPermaLink="false">sn-117</guid></item><item><title>Episode 116: Listener Feedback #27</title><description>Listener Feedback #27Leo and I discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-116.mp3"/><guid isPermaLink="false">sn-116</guid></item><item><title>Episode 115: Perfect Paper Passwords</title><description>Perfect Paper PasswordsDuring this week's second half of our discussion of GRC's new secure roaming authentication system, I reveal and fully describe the unique, simple, clean, and super-secure one-time password solution I designed to provide roaming authentication for GRC's employees. I also describe our own freely available software implementation of the "PPP" system, as well as several other recently created open source implementations.</description><pubDate>Thu, 25 Oct 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-115.mp3"/><guid isPermaLink="false">sn-115</guid></item><item><title>Episode 114: Listener Feedback #26</title><description>Listener Feedback #26Leo and I discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 18 Oct 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-114.mp3"/><guid isPermaLink="false">sn-114</guid></item><item><title>Episode 113: Roaming Authentication</title><description>Roaming AuthenticationIn this first of a two-part series, Leo and I discuss my recent design of a secure roaming authentication solution for GRC's employees.  I begin to describe the lightweight super-secure system I designed where even an attacker with "perfect knowledge" of an employee's logon will be unable to gain access to protected resources.</description><pubDate>Thu, 11 Oct 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-113.mp3"/><guid isPermaLink="false">sn-113</guid></item><item><title>Episode 112: Listener Feedback #25</title><description>Listener Feedback #25Leo and I discuss questions and comments from listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 04 Oct 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-112.mp3"/><guid isPermaLink="false">sn-112</guid></item><item><title>Episode 107: PIP &amp; Even More Perfect Passwords</title><description>PIP &amp; Even More Perfect PasswordsLeo and I discuss two topics this week:  The availability and operation of VeriSign Labs' OpenID PIP (Personal Identity Provider) beta, offering many useful features for online identity authentication; and my recent redesign of the algorithms behind GRC's popularPerfect Passwordspage.</description><pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="/passwords.htm"/><guid isPermaLink="false">passwords.htm</guid></item><item><title>Episode 106: Listener Mailbag #2</title><description>Listener Mailbag #2Leo and I open the Security Now mailbag to share and discuss the thoughts, comments, and observations of other Security Now listeners.</description><pubDate>Thu, 23 Aug 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-106.mp3"/><guid isPermaLink="false">sn-106</guid></item><item><title>Episode 105: Firewall LeakTesting</title><description>Firewall LeakTestingLeo and I discuss the history, purpose, and value of personal firewall leaktesting. We examine the myriad techniques clever developers have found for accessing the Internet and sending data out of PCs even when those PCs are being protected by outbound-blocking personal firewalls.</description><pubDate>Thu, 16 Aug 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-105.mp3"/><guid isPermaLink="false">sn-105</guid></item><item><title>Episode 104: Listener Feedback Q&amp;A #22</title><description>Listener Feedback Q&amp;A #22Leo and I discuss questions asked by listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 09 Aug 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-104.mp3"/><guid isPermaLink="false">sn-104</guid></item><item><title>Episode 103: PayPal Security Key</title><description>PayPal Security KeyLeo and I talk with Michael Vergara, PayPal's Director of Account Protections, to learn everything they can about the PayPal security key effort and its probable future.</description><pubDate>Thu, 02 Aug 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-103.mp3"/><guid isPermaLink="false">sn-103</guid></item><item><title>Episode 94: The Fourth Factor</title><description>The Fourth FactorHaving discussed the first three "factors" in multifactor authentication (something you know, something you have, something you are), Leo and I explore aspects of the power and problems with the fourth factor, "someone you know."</description><pubDate>Thu, 31 May 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-094.mp3"/><guid isPermaLink="false">sn-094</guid></item><item><title>Episode 93: Microsoft Patent Wars</title><description>Microsoft Patent WarsLeo and I tackle the past, present and future of software patents. Our discussion of this non-security topic was triggered by Microsoft's recent declaration that since free and open source software (FOSS) was infringing at least 235 of their software patents, someone ought to be paying them.</description><pubDate>Thu, 24 May 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-093.mp3"/><guid isPermaLink="false">sn-093</guid></item><item><title>Episode 92: Listener Feedback Q&amp;A #19</title><description>Listener Feedback Q&amp;A #19Leo and I discuss questions asked by listeners of previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 17 May 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-092.mp3"/><guid isPermaLink="false">sn-092</guid></item><item><title>Episode 91: Marc Maiffret</title><description>Marc Maiffret(pronounced "may-fray")Leo and I talk with Marc Maiffret, co-founder of eEye Digital Security of Aliso Viejo, California. eEye has perhaps done more forensic and vulnerability testing research to increase the remote security of Windows than any other group, including Microsoft. They continue to find and report an amazing number of Windows security vulnerabilities.</description><pubDate>Thu, 10 May 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-091.mp3"/><guid isPermaLink="false">sn-091</guid></item><item><title>Episode 90: Multifactor Authentication</title><description>Multifactor AuthenticationLeo and I discuss the theory and practice of multifactor authentication which uses combinations of "something you know," "something you have," and "something you are" to provide stronger remote authentication than traditional, unreliable single-factor username and password authentication.</description><pubDate>Thu, 03 May 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-090.mp3"/><guid isPermaLink="false">sn-090</guid></item><item><title>Episode 89: Even More Badly Broken WEP</title><description>Even More Badly Broken WEPLeo and I review the operation of wireless network security and discuss in detail the operation of the latest attack on the increasingly insecure WEP encryption system.  This new technique allows any WEP-protected WiFi network's secret cryptographic key to be discovered in less than 60 seconds.</description><pubDate>Thu, 26 Apr 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-089.mp3"/><guid isPermaLink="false">sn-089</guid></item><item><title>Episode 88: Listener Feedback Q&amp;A #18</title><description>Listener Feedback Q&amp;A #18Leo and I discuss questions asked by listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 19 Apr 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-088.mp3"/><guid isPermaLink="false">sn-088</guid></item><item><title>Episode 87: SQL Injection Exploits</title><description>SQL Injection ExploitsLeo and I wrap up our three-part series on web-based code injection vulnerabilities and exploitation with a discussion web-based structured query language (SQL) database attacks. We explain why and how SQL injection vulnerabilities are creating an ongoing plague of vulnerabilities besetting modern 'Web 2.0' applications.</description><pubDate>Thu, 12 Apr 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-087.mp3"/><guid isPermaLink="false">sn-087</guid></item><item><title>Episode 86: Cross-Site Scripting</title><description>Cross-Site ScriptingIn this second installment of our three-part coverage of web-based remote code injection, Leo and I discuss cross-site scripting vulnerabilities and exploits. I quickly read through the 28 vulnerabilities discovered in popular software just during the previous month and discusses the nature of the threat and challenge facing authors of modern 'dynamic' web sites and services.</description><pubDate>Thu, 05 Apr 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-086.mp3"/><guid isPermaLink="false">sn-086</guid></item><item><title>Episode 85: Intro to Web Code Injection</title><description>Intro to Web Code InjectionLeo and I begin a three-episode series to discuss and examine web-based remote code injection exploits.  Commonly known as 'Cross-Site Scripting' and 'SQL Injection,' these exploits are growing in popularity and strength as hackers discover increasingly clever ways to exploit subtle defects in next-generation web-based applications.</description><pubDate>Thu, 29 Mar 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-085.mp3"/><guid isPermaLink="false">sn-085</guid></item><item><title>Episode 84: Listener Feedback Q&amp;A #17</title><description>Listener Feedback Q&amp;A #17Leo and I discuss questions asked by listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 22 Mar 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-084.mp3"/><guid isPermaLink="false">sn-084</guid></item><item><title>Episode 83: UAC in Depth</title><description>UAC in DepthLeo and I wrap up our quest to get Windows Wi-Fi to 'Maintain Full Radio Silence' by adding one additional important tweak to Windows settings.  Then we discuss the detailed security implications, now and in the future, of Vista's new and powerful user account control (UAC) system.</description><pubDate>Thu, 15 Mar 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-083.mp3"/><guid isPermaLink="false">sn-083</guid></item><item><title>Episode 82: Cyber Warfare</title><description>Cyber WarfareLeo and I discuss the interesting topic of state-sponsored Cyber Warfare. While born through the imagination of science fiction writers, the reality of international, inter-nation cyber combat is fiction no longer.</description><pubDate>Thu, 08 Mar 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-082.mp3"/><guid isPermaLink="false">sn-082</guid></item><item><title>Episode 81: Hard Drive Unreliability</title><description>Hard Drive UnreliabilityLeo and I discuss the distressing results and implications of two recent very large population studies (more than 100,000 drives each) of hard drive field failures. Google and Carnegie Mellon University (CMU) both conducted and submitted studies for the recent 5th USENIX conference on File and Storage Technologies.</description><pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-081.mp3"/><guid isPermaLink="false">sn-081</guid></item><item><title>Episode 80: Listener Feedback Q&amp;A #16</title><description>Listener Feedback Q&amp;A #16Leo and I discuss questions asked by listeners of previous episodes.  We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 22 Feb 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-080.mp3"/><guid isPermaLink="false">sn-080</guid></item><item><title>Episode 79: Backtracking Spoofed Spam eMail</title><description>Backtracking Spoofed Spam eMailLeo's 'TWiT.tv' and my 'GRC.com' domains are used by spambots which spoof their domains as the source of bogus eMail. This week they discuss the details of eMail "Received:" headers and explain how the examination of those headers can penetrate any spoofing to reveal the true originating IP of any spoofed spam eMail.</description><pubDate>Thu, 15 Feb 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-079.mp3"/><guid isPermaLink="false">sn-079</guid></item><item><title>Episode 78: DEP in Depth</title><description>DEP in DepthWith our new SecurAble freeware now launched, Leo and I discuss the full impact and importance of hardware DEP technology.  I explain why I believe that hardware DEP is the single most important Internet-related security technology developed so far.</description><pubDate>Thu, 08 Feb 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-078.mp3"/><guid isPermaLink="false">sn-078</guid></item><item><title>Episode 77: Microsoft on Vista DRM</title><description>Microsoft on Vista DRMIn episode #74 Peter Gutmann shared his concerns and fears about the system-wide consequences and impact of the digital rights management (DRM) Microsoft has built deeply into Vista.  Microsoft's Vista Team responded with a comprehensive Blog posting which Leo and I read and examine this week.Here is the blog posting we used as our source:Windows Vista Content Protection - Twenty Questions (and Answers)</description><pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="http://windowsvistablog.com/blogs/windowsvista/archive/2007/01/20/windows-vista-content-protection-twenty-questions-and-answers.aspx"/><guid isPermaLink="false">windows-vista-content-protection-twenty-questions-and-answers.aspx</guid></item><item><title>Episode 76: Listener Feedback Q&amp;A #15</title><description>Listener Feedback Q&amp;A #15Leo and I discuss questions asked by listeners of our previous episodes. We tie up loose ends, explore a wide range of topics that are too small to fill their own episode, clarify any confusion from previous installments, and present real world 'application notes' for any of the security technologies and issues we have previously discussed.</description><pubDate>Thu, 25 Jan 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-076.mp3"/><guid isPermaLink="false">sn-076</guid></item><item><title>Episode 75: Vista DRM Wrap-Up &amp; Announcing “SecurAble”</title><description>Vista DRM Wrap-Up &amp; Announcing “SecurAble”Following last week's guest appearance by Peter Gutmann, Leo and I wrap up the topic of Vista's new, deep, and pervasive Digital Rights Management (DRM) system.  I also announce the completion and availability of GRC's latest freeware: “SecurAble.”Click this link for Securable's web page.</description><pubDate>Thu, 18 Jan 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="/securable.htm"/><guid isPermaLink="false">securable.htm</guid></item><item><title>Episode 74: Peter Gutmann on Vista DRM</title><description>Peter Gutmann on Vista DRMPeter Gutmann, the author of the highly controversial white paper detailing the significant cost of Windows Vista's deeply-entrenched digital rights management (DRM) technology, joins Leo and me this week to discuss his paper and his findings.</description><pubDate>Thu, 11 Jan 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-074.mp3"/><guid isPermaLink="false">sn-074</guid></item><item><title>Episode 73: Digital Rights Management (DRM)</title><description>Digital Rights Management (DRM)In preparation for next week's look at how and why Windows Vista has incorporated the most pervasive and invasive system for digital rights management ever created, AACS, Leo and I first take a step back to survey the history and evolution of media property rights and the technologies used to enforce them.</description><pubDate>Thu, 04 Jan 2007 00:00:00 +0000</pubDate><enclosure length="0" type="audio/mpeg" url="https://media.grc.com/sn/sn-073.mp3"/><guid isPermaLink="false">sn-073</guid></item></channel>
+  <channel>
+    <title>Security Now Podcast</title>
+    <link>https://www.grc.com/securitynow.htm</link>
+    <description>Security Now! Weekly Internet Security Podcast</description>
+    <language>en-us</language>
+
+    <item>
+      <title>A SERIOUS new Windows vulnerability — and Listener Q&A</title>
+      <itunes:title>A SERIOUS new Windows vulnerability — and Listener Q&A</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>29 Dec 2005</pubDate>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <link>https://www.grc.com/sn/notes-020.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>54 min.</itunes:duration>
+      <description><![CDATA[On December 28th a serious new Windows vulnerability appeared and was exploited by a growing number of malicious websites. Listener questions also discussed.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-020.mp3" length="26000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-020.mp3</guid>
+    </item>
+
+    <item>
+      <title>VPNs Three: Hamachi, iPig, and OpenVPN</title>
+      <itunes:title>VPNs Three: Hamachi, iPig, and OpenVPN</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>22 Dec 2005</pubDate>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <link>https://www.grc.com/sn/notes-019.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>53 min.</itunes:duration>
+      <description><![CDATA[Leo and I wrap up our multi-week coverage of VPN solutions, including Hamachi, iPig, and OpenVPN.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-019.mp3" length="25000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-019.mp3</guid>
+    </item>
+
+    <item>
+      <title>"Hamachi" Rocks!</title>
+      <itunes:title>"Hamachi" Rocks!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>15 Dec 2005</pubDate>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <link>https://www.grc.com/sn/notes-018.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>33 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss the ultra-secure Hamachi VPN system.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-018.mp3" length="16000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-018.mp3</guid>
+    </item>
+
+    <item>
+      <title>PPTP and IPSec VPN Technology</title>
+      <itunes:title>PPTP and IPSec VPN Technology</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>08 Dec 2005</pubDate>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <link>https://www.grc.com/sn/notes-017.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>33 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss VPN technology, including IPSec and PPTP protocols, for road warriors.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-017.mp3" length="16000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-017.mp3</guid>
+    </item>
+
+    <item>
+      <title>Listener Feedback Q&A #1</title>
+      <itunes:title>Listener Feedback Q&A #1</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>01 Dec 2005</pubDate>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <link>https://www.grc.com/sn/notes-016.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>42 min.</itunes:duration>
+      <description><![CDATA[Leo and I answer questions from listeners, covering various topics in security.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-016.mp3" length="20000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-016.mp3</guid>
+    </item>
+
+    <item>
+      <title>VPN Secure Tunneling Solutions</title>
+      <itunes:title>VPN Secure Tunneling Solutions</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>24 Nov 2005</pubDate>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <link>https://www.grc.com/sn/notes-015.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>43 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss VPN encrypted tunneling with SSL and SSH for road warriors.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-015.mp3" length="21000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-015.mp3</guid>
+    </item>
+
+    <item>
+      <title>Virtual Private Networks (VPN): Theory</title>
+      <itunes:title>Virtual Private Networks (VPN): Theory</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>17 Nov 2005</pubDate>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <link>https://www.grc.com/sn/notes-014.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>27 min.</itunes:duration>
+      <description><![CDATA[Leo and I explain the theory behind VPN connections and how they provide secure tunnels.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-014.mp3" length="13000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-014.mp3</guid>
+    </item>
+
+    <item>
+      <title>Unbreakable WiFi Security</title>
+      <itunes:title>Unbreakable WiFi Security</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>10 Nov 2005</pubDate>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <link>https://www.grc.com/sn/notes-013.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>35 min.</itunes:duration>
+      <description><![CDATA[Leo and I complete the discussion of WiFi security and WPA encryption.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-013.mp3" length="17000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-013.mp3</guid>
+    </item>
+
+    <item>
+      <title>Sony's "Rootkit Technology" DRM</title>
+      <itunes:title>Sony's "Rootkit Technology" DRM</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>03 Nov 2005</pubDate>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <link>https://www.grc.com/sn/notes-012.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss the controversy of Sony's "Rootkit Technology" DRM and the implications.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-012.mp3" length="12000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-012.mp3</guid>
+    </item>
+
+    <item>
+      <title>Bad WiFi Security (WEP and MAC address filtering)</title>
+      <itunes:title>Bad WiFi Security (WEP and MAC address filtering)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>27 Oct 2005</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <link>https://www.grc.com/sn/notes-011.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>38 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss the weak security of WEP and MAC address filtering in WiFi networks.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-011.mp3" length="18000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-011.mp3</guid>
+    </item>
+
+    <item>
+      <title>Open Wireless Access Points</title>
+      <itunes:title>Open Wireless Access Points</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>20 Oct 2005</pubDate>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <link>https://www.grc.com/sn/notes-010.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>28 min.</itunes:duration>
+      <description><![CDATA[Leo and I examine the privacy and security risks of open wireless access points.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-010.mp3" length="14000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-010.mp3</guid>
+    </item>
+
+    <item>
+      <title>Rootkits</title>
+      <itunes:title>Rootkits</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>13 Oct 2005</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <link>https://www.grc.com/sn/notes-009.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>32 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss what rootkits are, why they are a growing problem, and how to detect and remove them.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-009.mp3" length="16000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-009.mp3</guid>
+    </item>
+
+    <item>
+      <title>Denial of Service (DoS) Attacks</title>
+      <itunes:title>Denial of Service (DoS) Attacks</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>06 Oct 2005</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <link>https://www.grc.com/sn/notes-008.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss distributed denial-of-service (DDoS) attacks and how to protect against them.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-008.mp3" length="12000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-008.mp3</guid>
+    </item>
+
+    <item>
+      <title>SPYaWAREness</title>
+      <itunes:title>SPYaWAREness</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>29 Sep 2005</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <link>https://www.grc.com/sn/notes-007.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>36 min.</itunes:duration>
+      <description><![CDATA[Leo and I cover the history, current state, and future of spyware.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-007.mp3" length="17000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-007.mp3</guid>
+    </item>
+
+    <item>
+      <title>Mechanical & Electromagnetic Information Leakage</title>
+      <itunes:title>Mechanical & Electromagnetic Information Leakage</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>22 Sep 2005</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <link>https://www.grc.com/sn/notes-006.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>18 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss alternative forms of information leakage from mechanical and electromagnetic signals.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-006.mp3" length="8700000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-006.mp3</guid>
+    </item>
+
+    <item>
+      <title>Personal Password Policy - Part 2</title>
+      <itunes:title>Personal Password Policy - Part 2</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>15 Sep 2005</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <link>https://www.grc.com/sn/notes-005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>20 min.</itunes:duration>
+      <description><![CDATA[Leo and I continue our discussion on personal password policies, responding to listener feedback.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-005.mp3" length="9500000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-005.mp3</guid>
+    </item>
+
+    <item>
+      <title>Personal Password Policy</title>
+      <itunes:title>Personal Password Policy</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>08 Sep 2005</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <link>https://www.grc.com/sn/notes-004.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>24 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss the importance of creating secure passwords and share tips on how to create unbreakable ones.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-004.mp3" length="12000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-004.mp3</guid>
+    </item>
+
+    <item>
+      <title>NAT Routers as Firewalls</title>
+      <itunes:title>NAT Routers as Firewalls</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>01 Sep 2005</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <link>https://www.grc.com/nat/nat.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>25 min.</itunes:duration>
+      <description><![CDATA[Leo and I explain how NAT routers provide firewall security for networks and what settings to modify.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-003.mp3" length="12000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-003.mp3</guid>
+    </item>
+
+    <item>
+      <title>"HoneyMonkeys"</title>
+      <itunes:title>"HoneyMonkeys"</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>25 Aug 2005</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <link>https://www.grc.com/sn/notes-002.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>25 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss Microsoft's "HoneyMonkey" system and its role in finding malicious websites.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-002.mp3" length="12000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-002.mp3</guid>
+    </item>
+
+    <item>
+      <title>As the Worm Turns</title>
+      <itunes:title>As the Worm Turns</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>19 Aug 2005</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <link>https://www.grc.com/sn/notes-001.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>18 min.</itunes:duration>
+      <description><![CDATA[Leo and I discuss the rise of Internet worms exploiting newly discovered Windows vulnerabilities.]]></description>
+      <enclosure url="https://media.grc.com/sn/sn-001.mp3" length="8700000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-001.mp3</guid>
+    </item>
+
+  </channel>
 </rss>
