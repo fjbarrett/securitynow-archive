@@ -51,8 +51,9 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Windows vulnerability and listener Q&A.</itunes:subtitle>
-      <itunes:summary>In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.</itunes:summary>
+      <itunes:summary><![CDATA[In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.]]></itunes:summary>
       <description><![CDATA[In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.]]></description>
+      <content:encoded><![CDATA[In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.]]></content:encoded>
       <itunes:duration>54 min.</itunes:duration>
       <enclosure url="https://media.grc.com/sn/sn-020.mp3" length="26000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-020.mp3</guid>
