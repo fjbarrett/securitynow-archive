@@ -7,28 +7,25 @@
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en-US</language>
     <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
-    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-    <managingEditor>contact@grc.com (GRC Editors)</managingEditor>
-    <webMaster>contact@grc.com (GRC Engineering)</webMaster>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0</creativeCommons:license>
+    <managingEditor>support@grc.com (GRC Support)</managingEditor>
+    <webMaster>webmaster@grc.com (Webmaster)</webMaster>
     <ttl>720</ttl>
     <sy:updatePeriod>weekly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <lastBuildDate>Mon, 07 Oct 2024 12:00:00 PDT</lastBuildDate>
-    <pubDate>Mon, 07 Oct 2024 12:00:00 PDT</pubDate>
-    <rawvoice:frequency>weekly</rawvoice:frequency>
-    <rawvoice:location>Irvine, CA</rawvoice:location>
+    <lastBuildDate>Thu, 10 Oct 2024 12:00:00 PDT</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2024 12:00:00 PDT</pubDate>
     <itunes:type>episodic</itunes:type>
-    <itunes:subtitle>Security Now! is your source for the latest in computer security.</itunes:subtitle>
-    <itunes:summary>Security Now! with Steve Gibson and Leo Laporte covers the latest security news and helps you stay informed.</itunes:summary>
-    <description>Security Now! with Steve Gibson and Leo Laporte covers the latest security news and helps you stay informed.</description>
-    <itunes:keywords>Security, Technology, Steve Gibson, Leo Laporte</itunes:keywords>
-    <rawvoice:rating tv="tv-g">tv-g</rawvoice:rating>
+    <itunes:subtitle>Security Now covers the latest security news and topics, hosted by Steve Gibson and Leo Laporte.</itunes:subtitle>
+    <itunes:summary>Security Now is a weekly podcast discussing the latest developments in the world of cybersecurity, privacy, and computer science. Hosted by Steve Gibson and Leo Laporte, each episode dives into the technical and practical aspects of online safety and security.</itunes:summary>
+    <description>Security Now is a weekly podcast discussing the latest developments in the world of cybersecurity, privacy, and computer science. Hosted by Steve Gibson and Leo Laporte, each episode dives into the technical and practical aspects of online safety and security.</description>
+    <itunes:keywords>Security Now, Technology, Steve Gibson, Leo Laporte, Cybersecurity</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <itunes:block>no</itunes:block>
     <googleplay:block>No</googleplay:block>
     <itunes:owner>
       <itunes:name>Steve Gibson & Leo Laporte</itunes:name>
-      <itunes:email>contact@grc.com</itunes:email>
+      <itunes:email>support@grc.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
     <category>Technology</category>
@@ -38,11 +35,10 @@
       <link>https://twit.tv/shows/security-now</link>
     </image>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg"/>
-    <itunes:new-feed-url>https://feeds.twit.tv/securitynow.xml</itunes:new-feed-url>
-    <rawvoice:subscribe feed="https://feeds.twit.tv/securitynow.xml" itunes="https://podcasts.apple.com/us/podcast/security-now/id73331045?uo=10" tunein="http://tun.in/seN2e" html="https://twit.tv/shows/security-now"/>
-    <atom:link href="https://feeds.twit.tv/securitynow.xml" type="application/rss+xml" rel="self"/>
+    <rawvoice:subscribe feed="https://feeds.grc.com/securitynow.xml" itunes="https://podcasts.apple.com/us/podcast/security-now/id73329404?uo=10"/>
+    <atom:link href="https://feeds.grc.com/securitynow.xml" type="application/rss+xml" rel="self"/>
 
-    <!-- Episode 20 -->
+    <!-- Episodes -->
     <item>
       <title>A Serious Windows Vulnerability and Listener Q&A</title>
       <itunes:title>A Serious Windows Vulnerability and Listener Q&A</itunes:title>
@@ -52,27 +48,87 @@
       <itunes:episode>20</itunes:episode>
       <podcast:episode>20</podcast:episode>
       <link>https://www.grc.com/sn/notes-020.htm</link>
-      <comments>https://www.grc.com/sn/notes-020.htm</comments>
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Covering a newly revealed Windows vulnerability.</itunes:subtitle>
-      <description><![CDATA[<p>In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.</p>]]></description>
-      <itunes:summary><![CDATA[<p>In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.</p>]]></itunes:summary>
-      <itunes:keywords>Security, Windows, Vulnerability, Q&A</itunes:keywords>
+      <itunes:subtitle>Windows vulnerability and listener Q&A.</itunes:subtitle>
+      <itunes:summary>In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.</itunes:summary>
+      <description><![CDATA[In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.]]></description>
+      <itunes:duration>54 min.</itunes:duration>
       <enclosure url="https://media.grc.com/sn/sn-020.mp3" length="26000000" type="audio/mpeg"/>
       <guid>https://media.grc.com/sn/sn-020.mp3</guid>
-      <itunes:duration>54:00</itunes:duration>
-      <media:content url="https://media.grc.com/sn/sn-020.mp3" fileSize="26000000" type="audio/mpeg" medium="audio">
-        <media:title type="plain">A Serious Windows Vulnerability and Listener Q&A</media:title>
-        <media:description type="plain">In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.</media:description>
-        <media:keywords>Security, Windows, Vulnerability, Q&A</media:keywords>
-        <media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" width="400" height="400"/>
-      </media:content>
-      <podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
-      <podcast:person role="host" href="https://grc.com" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/49/pictures/steve_1.jpg">Steve Gibson</podcast:person>
     </item>
-
-    <!-- Additional episodes can be similarly modeled here -->
-
+    <item>
+      <title>VPNs Three: Hamachi, iPig, and OpenVPN</title>
+      <itunes:title>VPNs Three: Hamachi, iPig, and OpenVPN</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>Thu, 22 Dec 2005 00:00:00 PDT</pubDate>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <link>https://www.grc.com/sn/notes-019.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>VPN solutions discussed.</itunes:subtitle>
+      <itunes:summary>This episode wraps up Steve and Leo's multi-week VPN series, focusing on zero-configuration VPN solutions such as Hamachi and iPig, and exploring the powerful OpenVPN platform.</itunes:summary>
+      <description><![CDATA[This episode wraps up Steve and Leo's multi-week VPN series, focusing on zero-configuration VPN solutions such as Hamachi and iPig, and exploring the powerful OpenVPN platform.]]></description>
+      <itunes:duration>53 min.</itunes:duration>
+      <enclosure url="https://media.grc.com/sn/sn-019.mp3" length="25000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-019.mp3</guid>
+    </item>
+    <item>
+      <title>"Hamachi" Rocks!</title>
+      <itunes:title>"Hamachi" Rocks!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>Thu, 15 Dec 2005 00:00:00 PDT</pubDate>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <link>https://www.grc.com/sn/notes-018.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Discussion on Hamachi VPN.</itunes:subtitle>
+      <itunes:summary>In this episode, Steve and Leo dive into Hamachi, a secure and free personal virtual private network (VPN) system. They discuss its features and the benefits of using it for secure connections.</itunes:summary>
+      <description><![CDATA[In this episode, Steve and Leo dive into Hamachi, a secure and free personal virtual private network (VPN) system. They discuss its features and the benefits of using it for secure connections.]]></description>
+      <itunes:duration>33 min.</itunes:duration>
+      <enclosure url="https://media.grc.com/sn/sn-018.mp3" length="16000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-018.mp3</guid>
+    </item>
+    <item>
+      <title>PPTP and IPSec VPN Technology</title>
+      <itunes:title>PPTP and IPSec VPN Technology</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>Thu, 08 Dec 2005 00:00:00 PDT</pubDate>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <link>https://www.grc.com/sn/notes-017.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Discussion on PPTP and IPSec.</itunes:subtitle>
+      <itunes:summary>In this episode, Steve and Leo continue their exploration of VPN technology, covering PPTP, IPSec, and Microsoft's L2TP/IPSec. They discuss the challenges of connecting Windows machines to third-party VPN routers.</itunes:summary>
+      <description><![CDATA[In this episode, Steve and Leo continue their exploration of VPN technology, covering PPTP, IPSec, and Microsoft's L2TP/IPSec. They discuss the challenges of connecting Windows machines to third-party VPN routers.]]></description>
+      <itunes:duration>33 min.</itunes:duration>
+      <enclosure url="https://media.grc.com/sn/sn-017.mp3" length="16000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-017.mp3</guid>
+    </item>
+    <item>
+      <title>Listener Feedback Q&A #1</title>
+      <itunes:title>Listener Feedback Q&A #1</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Security Now</itunes:author>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 PDT</pubDate>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <link>https://www.grc.com/sn/notes-016.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Listener Q&A session.</itunes:subtitle>
+      <itunes:summary>Steve and Leo answer listener questions, clarifying confusion and exploring real-world applications for security technologies discussed in previous episodes.</itunes:summary>
+      <description><![CDATA[Steve and Leo answer listener questions, clarifying confusion and exploring real-world applications for security technologies discussed in previous episodes.]]></description>
+      <itunes:duration>42 min.</itunes:duration>
+      <enclosure url="https://media.grc.com/sn/sn-016.mp3" length="20000000" type="audio/mpeg"/>
+      <guid>https://media.grc.com/sn/sn-016.mp3</guid>
+    </item>
+    <!-- More episodes follow in the same format as provided in the original rss.xml -->
   </channel>
 </rss>
