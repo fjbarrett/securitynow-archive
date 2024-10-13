@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
 	<channel>
-		<title>Security Now (Archive)</title>
+		<title>Security Now! (Archive)</title>
 		<itunes:author>Steve Gibson &amp; Leo Laporte</itunes:author>
 		<link>https://www.grc.com/securitynow.htm</link>
 		<generator>fjbarrett</generator>
@@ -40,7 +40,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 		<category>Technology</category>
 		<category>Security</category>
 		<image>
-			<title>Security Now (Audio)</title>
+			<title>Security Now! (Archive)</title>
 			<url>https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg</url>
 			<link>https://twit.tv/shows/security-now</link>
 		</image>
@@ -72,8 +72,45 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<itunes:duration>2:35:21</itunes:duration>
 			<enclosure url="https://media.grc.com/sn/sn-001.mp3" length="74743981" type="audio/mpeg"/>
 			<media:content url="https://media.grc.com/sn/sn-001.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
-				<media:title type="plain">SN 995: uBlock Origin &amp; Manifest V3 - DDoS Record, N. Korean Workers, Vitamin D</media:title>
-				<media:description type="plain">DDoS Record, N. Korean Workers, Vitamin D</media:description>
+				<media:title type="plain">As the Worm Turns — the first Internet worms of 2005</media:title>
+				<media:description type="plain">How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</media:description>
+				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
+				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
+				<media:rating scheme="urn:simple">nonadult</media:rating>
+				<media:rating scheme="urn:v-chip">tv-g</media:rating>
+				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
+				<media:credit role="host">Steve Gibson</media:credit>
+				<media:credit role="host">Leo Laporte</media:credit>
+			</media:content>
+				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/smilingsteveheadshot.jpg">Steve Gibson</podcast:person>
+				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
+		</item>
+		<item>
+			<title>SN #2: " HoneyMonkeys "</title>
+			<itunes:title>SN #2: " HoneyMonkeys "</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>TWiT</itunes:author>
+			<pubDate>Thu, 25 Aug 2005 19:00:51 PDT</pubDate>
+			<itunes:episode>2</itunes:episode>
+			<podcast:episode>2</podcast:episode>
+			<link>https://www.grc.com/sn/past/2005.htm</link>
+			<comments>https://www.grc.com/sn/past/2005.htm</comments>
+			<category>Help &amp; How To</category>
+			<category>Technology</category>
+			<category>Security</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle>SN #2: " HoneyMonkeys "</itunes:subtitle>
+			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</itunes:keywords>
+			<description>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</description>
+			<itunes:summary>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</itunes:summary>
+			<content:encoded>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</content:encoded>
+			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
+			<guid isPermaLink="false">https://media.grc.com/sn/sn-002.mp3</guid>
+			<itunes:duration>2:35:21</itunes:duration>
+			<enclosure url="https://media.grc.com/sn/sn-002.mp3" length="74743981" type="audio/mpeg"/>
+			<media:content url="https://media.grc.com/sn/sn-002.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
+				<media:title type="plain">" HoneyMonkeys "</media:title>
+				<media:description type="plain">How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</media:description>
 				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
 				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
 				<media:rating scheme="urn:simple">nonadult</media:rating>
