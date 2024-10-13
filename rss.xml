@@ -1,135 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
-  <channel>
-    <title>Security Now! (Archive)</title>
-    <itunes:author>Steve Gibson & Leo Laporte</itunes:author>
-    <link>https://www.grc.com/securitynow.htm</link>
-    <generator>Custom Feed Generator</generator>
-    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <language>en-US</language>
-    <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
-    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0</creativeCommons:license>
-    <managingEditor>support@grc.com (GRC Support)</managingEditor>
-    <webMaster>webmaster@grc.com (Webmaster)</webMaster>
-    <ttl>720</ttl>
-    <sy:updatePeriod>weekly</sy:updatePeriod>
-    <sy:updateFrequency>1</sy:updateFrequency>
-    <lastBuildDate>Thu, 10 Oct 2024 12:00:00 PDT</lastBuildDate>
-    <pubDate>Thu, 10 Oct 2024 12:00:00 PDT</pubDate>
-    <itunes:type>episodic</itunes:type>
-    <itunes:subtitle>Security Now covers the latest security news and topics, hosted by Steve Gibson and Leo Laporte.</itunes:subtitle>
-    <itunes:summary>Security Now is a weekly podcast discussing the latest developments in the world of cybersecurity, privacy, and computer science. Hosted by Steve Gibson and Leo Laporte, each episode dives into the technical and practical aspects of online safety and security.</itunes:summary>
-    <description>Security Now is a weekly podcast discussing the latest developments in the world of cybersecurity, privacy, and computer science. Hosted by Steve Gibson and Leo Laporte, each episode dives into the technical and practical aspects of online safety and security.</description>
-    <itunes:keywords>Security Now, Technology, Steve Gibson, Leo Laporte, Cybersecurity</itunes:keywords>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:block>no</itunes:block>
-    <googleplay:block>No</googleplay:block>
-    <itunes:owner>
-      <itunes:name>Steve Gibson & Leo Laporte</itunes:name>
-      <itunes:email>support@grc.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="Technology"/>
-    <category>Technology</category>
-    <image>
-      <title>Security Now! (Archive)</title>
-      <url>https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg</url>
-      <link>https://twit.tv/shows/security-now</link>
-    </image>
-    <itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg"/>
-    <rawvoice:subscribe feed="https://feeds.grc.com/securitynow.xml" itunes="https://podcasts.apple.com/us/podcast/security-now/id73329404?uo=10"/>
-    <atom:link href="https://feeds.grc.com/securitynow.xml" type="application/rss+xml" rel="self"/>
+	<channel>
+		<title>Security Now (Archive)</title>
+		<itunes:author>Steve Gibson &amp; Leo Laporte</itunes:author>
+		<link>https://www.grc.com/securitynow.htm</link>
+		<generator>fjbarrett</generator>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<language>en-US</language>
+		<copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
+		<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+		<managingEditor>distro@twit.tv (TWiT Editors)</managingEditor>
+		<webMaster>distro@twit.tv (TWiT Engineering)</webMaster>
+		<ttl>720</ttl>
+		<sy:updatePeriod>weekly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<lastBuildDate>Tue, 08 Oct 2024 19:15:03 PDT</lastBuildDate>
+		<pubDate>Tue, 08 Oct 2024 19:15:03 PDT</pubDate>
+		<rawvoice:frequency>weekly</rawvoice:frequency>
+		<rawvoice:location>Petaluma, CA</rawvoice:location>
+		<itunes:type>episodic</itunes:type>
+		<itunes:subtitle>Expert Steve Gibson discusses the current threats, risks, and tech breaches everyone is facing in security today.</itunes:subtitle>
+		<itunes:summary>Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must listen for security professionals every week.
 
-    <!-- Episodes -->
-    <item>
-      <title>A Serious Windows Vulnerability and Listener Q&A</title>
-      <itunes:title>A Serious Windows Vulnerability and Listener Q&A</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>Security Now</itunes:author>
-      <pubDate>Thu, 29 Dec 2005 00:00:00 PDT</pubDate>
-      <itunes:episode>20</itunes:episode>
-      <podcast:episode>20</podcast:episode>
-      <link>https://www.grc.com/sn/notes-020.htm</link>
-      <category>Technology</category>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Windows vulnerability and listener Q&A.</itunes:subtitle>
-      <itunes:summary><![CDATA[In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.]]></itunes:summary>
-      <description><![CDATA[In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.]]></description>
-      <content:encoded><![CDATA[In this episode, Steve and Leo cover a newly revealed Windows vulnerability and its immediate exploitation by malicious websites. The show also features listener Q&A on various security topics.]]></content:encoded>
-      <itunes:duration>54 min.</itunes:duration>
-      <enclosure url="https://media.grc.com/sn/sn-020.mp3" length="26000000" type="audio/mpeg"/>
-      <guid>https://media.grc.com/sn/sn-020.mp3</guid>
-    </item>
-    <item>
-      <title>VPNs Three: Hamachi, iPig, and OpenVPN</title>
-      <itunes:title>VPNs Three: Hamachi, iPig, and OpenVPN</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>Security Now</itunes:author>
-      <pubDate>Thu, 22 Dec 2005 00:00:00 PDT</pubDate>
-      <itunes:episode>19</itunes:episode>
-      <podcast:episode>19</podcast:episode>
-      <link>https://www.grc.com/sn/notes-019.htm</link>
-      <category>Technology</category>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>VPN solutions discussed.</itunes:subtitle>
-      <itunes:summary>This episode wraps up Steve and Leo's multi-week VPN series, focusing on zero-configuration VPN solutions such as Hamachi and iPig, and exploring the powerful OpenVPN platform.</itunes:summary>
-      <description><![CDATA[This episode wraps up Steve and Leo's multi-week VPN series, focusing on zero-configuration VPN solutions such as Hamachi and iPig, and exploring the powerful OpenVPN platform.]]></description>
-      <itunes:duration>53 min.</itunes:duration>
-      <enclosure url="https://media.grc.com/sn/sn-019.mp3" length="25000000" type="audio/mpeg"/>
-      <guid>https://media.grc.com/sn/sn-019.mp3</guid>
-    </item>
-    <item>
-      <title>"Hamachi" Rocks!</title>
-      <itunes:title>"Hamachi" Rocks!</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>Security Now</itunes:author>
-      <pubDate>Thu, 15 Dec 2005 00:00:00 PDT</pubDate>
-      <itunes:episode>18</itunes:episode>
-      <podcast:episode>18</podcast:episode>
-      <link>https://www.grc.com/sn/notes-018.htm</link>
-      <category>Technology</category>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Discussion on Hamachi VPN.</itunes:subtitle>
-      <itunes:summary>In this episode, Steve and Leo dive into Hamachi, a secure and free personal virtual private network (VPN) system. They discuss its features and the benefits of using it for secure connections.</itunes:summary>
-      <description><![CDATA[In this episode, Steve and Leo dive into Hamachi, a secure and free personal virtual private network (VPN) system. They discuss its features and the benefits of using it for secure connections.]]></description>
-      <itunes:duration>33 min.</itunes:duration>
-      <enclosure url="https://media.grc.com/sn/sn-018.mp3" length="16000000" type="audio/mpeg"/>
-      <guid>https://media.grc.com/sn/sn-018.mp3</guid>
-    </item>
-    <item>
-      <title>PPTP and IPSec VPN Technology</title>
-      <itunes:title>PPTP and IPSec VPN Technology</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>Security Now</itunes:author>
-      <pubDate>Thu, 08 Dec 2005 00:00:00 PDT</pubDate>
-      <itunes:episode>17</itunes:episode>
-      <podcast:episode>17</podcast:episode>
-      <link>https://www.grc.com/sn/notes-017.htm</link>
-      <category>Technology</category>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Discussion on PPTP and IPSec.</itunes:subtitle>
-      <itunes:summary>In this episode, Steve and Leo continue their exploration of VPN technology, covering PPTP, IPSec, and Microsoft's L2TP/IPSec. They discuss the challenges of connecting Windows machines to third-party VPN routers.</itunes:summary>
-      <description><![CDATA[In this episode, Steve and Leo continue their exploration of VPN technology, covering PPTP, IPSec, and Microsoft's L2TP/IPSec. They discuss the challenges of connecting Windows machines to third-party VPN routers.]]></description>
-      <itunes:duration>33 min.</itunes:duration>
-      <enclosure url="https://media.grc.com/sn/sn-017.mp3" length="16000000" type="audio/mpeg"/>
-      <guid>https://media.grc.com/sn/sn-017.mp3</guid>
-    </item>
-    <item>
-      <title>Listener Feedback Q&A #1</title>
-      <itunes:title>Listener Feedback Q&A #1</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>Security Now</itunes:author>
-      <pubDate>Thu, 01 Dec 2005 00:00:00 PDT</pubDate>
-      <itunes:episode>16</itunes:episode>
-      <podcast:episode>16</podcast:episode>
-      <link>https://www.grc.com/sn/notes-016.htm</link>
-      <category>Technology</category>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:subtitle>Listener Q&A session.</itunes:subtitle>
-      <itunes:summary>Steve and Leo answer listener questions, clarifying confusion and exploring real-world applications for security technologies discussed in previous episodes.</itunes:summary>
-      <description><![CDATA[Steve and Leo answer listener questions, clarifying confusion and exploring real-world applications for security technologies discussed in previous episodes.]]></description>
-      <itunes:duration>42 min.</itunes:duration>
-      <enclosure url="https://media.grc.com/sn/sn-016.mp3" length="20000000" type="audio/mpeg"/>
-      <guid>https://media.grc.com/sn/sn-016.mp3</guid>
-    </item>
-    <!-- More episodes follow in the same format as provided in the original rss.xml -->
-  </channel>
+Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</itunes:summary>
+		<description>Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must listen for security professionals every week.
+
+Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</description>
+		<itunes:keywords>TWiT, Technology, Steve Gibson, Leo Laporte, security, spyware, malware, hacking, cyber crime, encryption</itunes:keywords>
+		<rawvoice:rating tv="tv-g">tv-g</rawvoice:rating>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+		<googleplay:block>No</googleplay:block>
+		<podcast:funding url="https://twit.tv/clubtwit">Become a Club TWiT member!</podcast:funding>
+		<itunes:owner>
+			<itunes:name>Leo Laporte</itunes:name>
+			<itunes:email>distro@twit.tv</itunes:email>
+		</itunes:owner>
+		<itunes:category text="Technology" />
+		<category>Technology</category>
+		<category>Security</category>
+		<image>
+			<title>Security Now (Audio)</title>
+			<url>https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg</url>
+			<link>https://twit.tv/shows/security-now</link>
+		</image>
+		<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" />
+		<itunes:new-feed-url>https://feeds.twit.tv/sn.xml</itunes:new-feed-url>
+		<rawvoice:subscribe feed="https://feeds.twit.tv/sn.xml" itunes="https://podcasts.apple.com/us/podcast/security-now-mp3/id79016499?uo=10" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
+		<atom:link href="https://feeds.twit.tv/sn.xml" type="application/rss+xml" rel="self"/>
+		<item>
+			<title>SN #1: As the Worm Turns — the first Internet worms of 2005</title>
+			<itunes:title>SN #1: As the Worm Turns — the first Internet worms of 2005</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>TWiT</itunes:author>
+			<pubDate>Fri, 19 Aug 2005 19:00:51 PDT</pubDate>
+			<itunes:episode>1</itunes:episode>
+			<podcast:episode>1</podcast:episode>
+			<link>https://www.grc.com/sn/past/2005.htm</link>
+			<comments>https://www.grc.com/sn/past/2005.htm</comments>
+			<category>Help &amp; How To</category>
+			<category>Technology</category>
+			<category>Security</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle>As the Worm Turns — the first Internet worms of 2005</itunes:subtitle>
+			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</itunes:keywords>
+			<description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</description>
+			<itunes:summary>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</itunes:summary>
+			<content:encoded>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</content:encoded>
+			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
+			<guid isPermaLink="false">https://media.grc.com/sn/sn-001.mp3</guid>
+			<itunes:duration>2:35:21</itunes:duration>
+			<enclosure url="https://media.grc.com/sn/sn-001.mp3" length="74743981" type="audio/mpeg"/>
+			<media:content url="https://media.grc.com/sn/sn-001.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
+				<media:title type="plain">SN 995: uBlock Origin &amp; Manifest V3 - DDoS Record, N. Korean Workers, Vitamin D</media:title>
+				<media:description type="plain">DDoS Record, N. Korean Workers, Vitamin D</media:description>
+				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
+				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
+				<media:rating scheme="urn:simple">nonadult</media:rating>
+				<media:rating scheme="urn:v-chip">tv-g</media:rating>
+				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
+				<media:credit role="host">Steve Gibson</media:credit>
+				<media:credit role="host">Leo Laporte</media:credit>
+			</media:content>
+				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/smilingsteveheadshot.jpg">Steve Gibson</podcast:person>
+				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
+		</item>
+	</channel>
 </rss>
