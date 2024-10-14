@@ -69,7 +69,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<content:encoded>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-001.pdf">sn-001.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-001.txt">sn-001.txt</a></p> ]]></content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://media.grc.com/sn/sn-001.mp3</guid>
-			<itunes:duration>00:18:00</itunes:duration>
+			<itunes:duration>00:18:10</itunes:duration>
 			<enclosure url="https://media.grc.com/sn/sn-001.mp3" length="74743981" type="audio/mpeg"/>
 			<media:content url="https://media.grc.com/sn/sn-001.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
 				<media:title type="plain">As the Worm Turns — the first Internet worms of 2005</media:title>
@@ -106,7 +106,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<content:encoded>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-002.pdf">sn-002.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-002.txt">sn-002.txt</a></p> ]]></content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://media.grc.com/sn/sn-002.mp3</guid>
-			<itunes:duration>00:25:00</itunes:duration>
+			<itunes:duration>00:25:02</itunes:duration>
 			<enclosure url="https://media.grc.com/sn/sn-002.mp3" length="74743981" type="audio/mpeg"/>
 			<media:content url="https://media.grc.com/sn/sn-002.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
 				<media:title type="plain">" HoneyMonkeys "</media:title>
