@@ -69,7 +69,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<content:encoded>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://media.grc.com/sn/sn-001.mp3</guid>
-			<itunes:duration>2:35:21</itunes:duration>
+			<itunes:duration>00:18:00</itunes:duration>
 			<enclosure url="https://media.grc.com/sn/sn-001.mp3" length="74743981" type="audio/mpeg"/>
 			<media:content url="https://media.grc.com/sn/sn-001.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
 				<media:title type="plain">As the Worm Turns — the first Internet worms of 2005</media:title>
@@ -106,11 +106,49 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<content:encoded>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</content:encoded>
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://media.grc.com/sn/sn-002.mp3</guid>
-			<itunes:duration>2:35:21</itunes:duration>
+			<itunes:duration>00:25:00</itunes:duration>
 			<enclosure url="https://media.grc.com/sn/sn-002.mp3" length="74743981" type="audio/mpeg"/>
 			<media:content url="https://media.grc.com/sn/sn-002.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
 				<media:title type="plain">" HoneyMonkeys "</media:title>
 				<media:description type="plain">How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</media:description>
+				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
+				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
+				<media:rating scheme="urn:simple">nonadult</media:rating>
+				<media:rating scheme="urn:v-chip">tv-g</media:rating>
+				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
+				<media:credit role="host">Steve Gibson</media:credit>
+				<media:credit role="host">Leo Laporte</media:credit>
+			</media:content>
+				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/smilingsteveheadshot.jpg">Steve Gibson</podcast:person>
+				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
+		</item>
+		<item>
+			<title>SN #3: NAT Routers as Firewalls</title>
+			<itunes:title>SN #3: NAT Routers as Firewalls</itunes:title>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>TWiT</itunes:author>
+			<pubDate>Thu, 01 Sep 2005 19:00:51 PDT</pubDate>
+			<itunes:episode>3</itunes:episode>
+			<podcast:episode>3</podcast:episode>
+			<link>https://www.grc.com/sn/past/2005.htm</link>
+			<comments>https://www.grc.com/sn/past/2005.htm</comments>
+			<category>Help &amp; How To</category>
+			<category>Technology</category>
+			<category>Security</category>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:subtitle>NAT Routers as Firewalls</itunes:subtitle>
+			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</itunes:keywords>
+			<description>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-003.pdf">https://www.grc.com/sn/sn-003.pdf</a></p><br><p>Transcript: <a href="https://www.grc.com/sn/sn-003.txt">https://www.grc.com/sn/sn-003.txt</a></p> ]]></description>
+			<itunes:summary>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-003.pdf">https://www.grc.com/sn/sn-003.pdf</a></p><br><p>Transcript: <a href="https://www.grc.com/sn/sn-003.txt">https://www.grc.com/sn/sn-003.txt</a></p> ]]></itunes:summary>
+			<content:encoded>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-003.pdf">https://www.grc.com/sn/sn-003.pdf</a></p><br><p>Transcript: <a href="https://www.grc.com/sn/sn-003.txt">https://www.grc.com/sn/sn-003.txt</a></p> ]]></content:encoded>
+			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
+			<guid isPermaLink="false">https://media.grc.com/sn/sn-003.mp3</guid>
+			<itunes:duration>25:00</itunes:duration>
+			<enclosure url="https://media.grc.com/sn/sn-003.mp3" length="74743981" type="audio/mpeg"/>
+			<podcast:transcript url="https://www.grc.com/sn/sn-003.txt"type="text/plain" />
+			<media:content url="https://media.grc.com/sn/sn-003.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
+				<media:title type="plain">NAT Routers as Firewalls</media:title>
+				<media:description type="plain">Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</media:description>
 				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
 				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
 				<media:rating scheme="urn:simple">nonadult</media:rating>
