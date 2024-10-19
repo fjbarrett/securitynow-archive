@@ -70,8 +70,8 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://media.grc.com/sn/sn-001.mp3</guid>
 			<itunes:duration>18:10</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-001.mp3" length="74743981" type="audio/mpeg"/>
-			<media:content url="https://media.grc.com/sn/sn-001.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
+			<enclosure url="https://media.grc.com/sn/sn-001.mp3" length="8724733" type="audio/mpeg"/>
+			<media:content url="https://media.grc.com/sn/sn-001.mp3" fileSize="8724733" type="audio/mpeg" medium="audio">
 				<media:title type="plain">As the Worm Turns — the first Internet worms of 2005</media:title>
 				<media:description type="plain">How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</media:description>
 				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
@@ -107,8 +107,9 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://media.grc.com/sn/sn-002.mp3</guid>
 			<itunes:duration>25:02</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-002.mp3" length="74743981" type="audio/mpeg"/>
-			<media:content url="https://media.grc.com/sn/sn-002.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
+			<enclosure url="https://media.grc.com/sn/sn-002.mp3" length="12055706" type="audio/mpeg"/>
+			<podcast:transcript url="https://www.grc.com/sn/sn-002.txt" type="text/plain" />
+			<media:content url="https://media.grc.com/sn/sn-002.mp3" fileSize="12055706" type="audio/mpeg" medium="audio">
 				<media:title type="plain">" HoneyMonkeys "</media:title>
 				<media:description type="plain">How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</media:description>
 				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
@@ -144,9 +145,9 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://media.grc.com/sn/sn-003.mp3</guid>
 			<itunes:duration>25:40</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-003.mp3" length="74743981" type="audio/mpeg"/>
+			<enclosure url="https://media.grc.com/sn/sn-003.mp3" length="12359498" type="audio/mpeg"/>
 			<podcast:transcript url="https://www.grc.com/sn/sn-003.txt" type="text/plain" />
-			<media:content url="https://media.grc.com/sn/sn-003.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
+			<media:content url="https://media.grc.com/sn/sn-003.mp3" fileSize="12359498" type="audio/mpeg" medium="audio">
 				<media:title type="plain">NAT Routers as Firewalls</media:title>
 				<media:description type="plain">Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</media:description>
 				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
@@ -182,9 +183,9 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
 			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
 			<guid isPermaLink="false">https://media.grc.com/sn/sn-004.mp3</guid>
 			<itunes:duration>24:00</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-004.mp3" length="74743981" type="audio/mpeg"/>
-			<podcast:transcript url="https://www.grc.com/sn/sn-0034txt" type="text/plain" />
-			<media:content url="https://media.grc.com/sn/sn-004.mp3" fileSize="74743981" type="audio/mpeg" medium="audio">
+			<enclosure url="https://media.grc.com/sn/sn-004.mp3" length="11701427" type="audio/mpeg"/>
+			<podcast:transcript url="https://www.grc.com/sn/sn-004.txt" type="text/plain" />
+			<media:content url="https://media.grc.com/sn/sn-004.mp3" fileSize="11701427" type="audio/mpeg" medium="audio">
 				<media:title type="plain">Personal Password Policy</media:title>
 				<media:description type="plain">Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</media:description>
 				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
