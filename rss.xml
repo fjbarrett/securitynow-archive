@@ -1,241 +1,144 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
-	<channel>
-		<title>Security Now! (Archive)</title>
-		<itunes:author>Steve Gibson &amp; Leo Laporte</itunes:author>
-		<link>https://www.grc.com/securitynow.htm</link>
-		<generator>fjbarrett</generator>
-		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-		<language>en-US</language>
-		<copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
-		<creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-		<managingEditor>distro@twit.tv (TWiT Editors)</managingEditor>
-		<webMaster>distro@twit.tv (TWiT Engineering)</webMaster>
-		<ttl>720</ttl>
-		<sy:updatePeriod>weekly</sy:updatePeriod>
-		<sy:updateFrequency>1</sy:updateFrequency>
-		<lastBuildDate>Tue, 08 Oct 2024 19:15:03 PDT</lastBuildDate>
-		<pubDate>Tue, 08 Oct 2024 19:15:03 PDT</pubDate>
-		<rawvoice:frequency>weekly</rawvoice:frequency>
-		<rawvoice:location>Petaluma, CA</rawvoice:location>
-		<itunes:type>episodic</itunes:type>
-		<itunes:subtitle>Expert Steve Gibson discusses the current threats, risks, and tech breaches everyone is facing in security today.</itunes:subtitle>
-		<itunes:summary>Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must listen for security professionals every week.
+  <channel>
+    <title>Security Now! (Archive)</title>
+    <itunes:author>Steve Gibson &amp; Leo Laporte</itunes:author>
+    <link>https://www.grc.com/securitynow.htm</link>
+    <generator>fjbarrett</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <language>en-US</language>
+    <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+    <managingEditor>distro@twit.tv (TWiT Editors)</managingEditor>
+    <webMaster>distro@twit.tv (TWiT Engineering)</webMaster>
+    <ttl>720</ttl>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <lastBuildDate>Tue, 08 Oct 2024 19:15:03 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 19:15:03 +0000</pubDate>
+    <rawvoice:frequency>weekly</rawvoice:frequency>
+    <rawvoice:location>Petaluma, CA</rawvoice:location>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>Expert Steve Gibson discusses the current threats, risks, and tech breaches everyone is facing in security today.</itunes:subtitle>
+    <itunes:summary>Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must-listen for security professionals every week.
 
 Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</itunes:summary>
-		<description>Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must listen for security professionals every week.
+    <description>Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must-listen for security professionals every week.
 
 Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</description>
-		<itunes:keywords>TWiT, Technology, Steve Gibson, Leo Laporte, security, spyware, malware, hacking, cyber crime, encryption</itunes:keywords>
-		<rawvoice:rating tv="tv-g">tv-g</rawvoice:rating>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:block>no</itunes:block>
-		<googleplay:block>No</googleplay:block>
-		<podcast:funding url="https://twit.tv/clubtwit">Become a Club TWiT member!</podcast:funding>
-		<itunes:owner>
-			<itunes:name>Leo Laporte</itunes:name>
-			<itunes:email>distro@twit.tv</itunes:email>
-		</itunes:owner>
-		<itunes:category text="Technology" />
-		<category>Technology</category>
-		<category>Security</category>
-		<image>
-			<title>Security Now! (Archive)</title>
-			<url>https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg</url>
-			<link>https://twit.tv/shows/security-now</link>
-		</image>
-		<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" />
-		<itunes:new-feed-url>https://feeds.twit.tv/sn.xml</itunes:new-feed-url>
-		<rawvoice:subscribe feed="https://feeds.twit.tv/sn.xml" itunes="https://podcasts.apple.com/us/podcast/security-now-mp3/id79016499?uo=10" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
-		<atom:link href="https://feeds.twit.tv/sn.xml" type="application/rss+xml" rel="self"/>
-		<item>
-			<title>SN #0001: As the Worm Turns — the first Internet worms of 2005</title>
-			<itunes:title>SN #0001: As the Worm Turns — the first Internet worms of 2005</itunes:title>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>TWiT</itunes:author>
-			<pubDate>Fri, 19 Aug 2005 19:00:51 PDT</pubDate>
-			<itunes:episode>1</itunes:episode>
-			<podcast:episode>1</podcast:episode>
-			<link>https://www.grc.com/sn/past/2005.htm</link>
-			<comments>https://www.grc.com/sn/past/2005.htm</comments>
-			<category>Help &amp; How To</category>
-			<category>Technology</category>
-			<category>Security</category>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:subtitle>As the Worm Turns — the first Internet worms of 2005</itunes:subtitle>
-			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</itunes:keywords>
-			<description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-001.pdf">sn-001.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-001.txt">sn-001.txt</a></p> ]]></description>
-			<itunes:summary>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-001.pdf">sn-001.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-001.txt">sn-001.txt</a></p> ]]></itunes:summary>
-			<content:encoded>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-001.pdf">sn-001.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-001.txt">sn-001.txt</a></p> ]]></content:encoded>
-			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
-			<guid isPermaLink="false">https://media.grc.com/sn/sn-001.mp3</guid>
-			<itunes:duration>18:10</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-001.mp3" length="8724733" type="audio/mpeg"/>
-			<media:content url="https://media.grc.com/sn/sn-001.mp3" fileSize="8724733" type="audio/mpeg" medium="audio">
-				<media:title type="plain">As the Worm Turns — the first Internet worms of 2005</media:title>
-				<media:description type="plain">How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</media:description>
-				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
-				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
-				<media:rating scheme="urn:simple">nonadult</media:rating>
-				<media:rating scheme="urn:v-chip">tv-g</media:rating>
-				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
-				<media:credit role="host">Steve Gibson</media:credit>
-				<media:credit role="host">Leo Laporte</media:credit>
-			</media:content>
-				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/smilingsteveheadshot.jpg">Steve Gibson</podcast:person>
-				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
-		</item>
-		<item>
-			<title>SN #0002: " HoneyMonkeys "</title>
-			<itunes:title>SN #0002: " HoneyMonkeys "</itunes:title>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>TWiT</itunes:author>
-			<pubDate>Thu, 25 Aug 2005 19:00:51 PDT</pubDate>
-			<itunes:episode>2</itunes:episode>
-			<podcast:episode>2</podcast:episode>
-			<link>https://www.grc.com/sn/past/2005.htm</link>
-			<comments>https://www.grc.com/sn/past/2005.htm</comments>
-			<category>Help &amp; How To</category>
-			<category>Technology</category>
-			<category>Security</category>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:subtitle>" HoneyMonkeys "</itunes:subtitle>
-			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</itunes:keywords>
-			<description>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-002.pdf">sn-002.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-002.txt">sn-002.txt</a></p> ]]></description>
-			<itunes:summary>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-002.pdf">sn-002.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-002.txt">sn-002.txt</a></p> ]]></itunes:summary>
-			<content:encoded>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-002.pdf">sn-002.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-002.txt">sn-002.txt</a></p> ]]></content:encoded>
-			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
-			<guid isPermaLink="false">https://media.grc.com/sn/sn-002.mp3</guid>
-			<itunes:duration>25:02</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-002.mp3" length="12055706" type="audio/mpeg"/>
-			<podcast:transcript url="https://www.grc.com/sn/sn-002.txt" type="text/plain" />
-			<media:content url="https://media.grc.com/sn/sn-002.mp3" fileSize="12055706" type="audio/mpeg" medium="audio">
-				<media:title type="plain">" HoneyMonkeys "</media:title>
-				<media:description type="plain">How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</media:description>
-				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
-				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
-				<media:rating scheme="urn:simple">nonadult</media:rating>
-				<media:rating scheme="urn:v-chip">tv-g</media:rating>
-				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
-				<media:credit role="host">Steve Gibson</media:credit>
-				<media:credit role="host">Leo Laporte</media:credit>
-			</media:content>
-				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/smilingsteveheadshot.jpg">Steve Gibson</podcast:person>
-				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
-		</item>
-		<item>
-			<title>SN #0003: NAT Routers as Firewalls</title>
-			<itunes:title>SN #0003: NAT Routers as Firewalls</itunes:title>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>TWiT</itunes:author>
-			<pubDate>Thu, 01 Sep 2005 19:00:51 PDT</pubDate>
-			<itunes:episode>3</itunes:episode>
-			<podcast:episode>3</podcast:episode>
-			<link>https://www.grc.com/sn/past/2005.htm</link>
-			<comments>https://www.grc.com/sn/past/2005.htm</comments>
-			<category>Help &amp; How To</category>
-			<category>Technology</category>
-			<category>Security</category>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:subtitle>NAT Routers as Firewalls</itunes:subtitle>
-			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</itunes:keywords>
-			<description>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-003.pdf">sn-003.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-003.txt">sn-003.txt</a></p> ]]></description>
-			<itunes:summary>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-003.pdf">sn-003.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-003.txt">sn-003.txt</a></p> ]]></itunes:summary>
-			<content:encoded>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-003.pdf">sn-003.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-003.txt">sn-003.txt</a></p> ]]></content:encoded>
-			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
-			<guid isPermaLink="false">https://media.grc.com/sn/sn-003.mp3</guid>
-			<itunes:duration>25:40</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-003.mp3" length="12359498" type="audio/mpeg"/>
-			<podcast:transcript url="https://www.grc.com/sn/sn-003.txt" type="text/plain" />
-			<media:content url="https://media.grc.com/sn/sn-003.mp3" fileSize="12359498" type="audio/mpeg" medium="audio">
-				<media:title type="plain">NAT Routers as Firewalls</media:title>
-				<media:description type="plain">Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</media:description>
-				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
-				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
-				<media:rating scheme="urn:simple">nonadult</media:rating>
-				<media:rating scheme="urn:v-chip">tv-g</media:rating>
-				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
-				<media:credit role="host">Steve Gibson</media:credit>
-				<media:credit role="host">Leo Laporte</media:credit>
-			</media:content>
-				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/smilingsteveheadshot.jpg">Steve Gibson</podcast:person>
-				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
-		</item>
-		<item>
-			<title>SN #0004: Personal Password Policy</title>
-			<itunes:title>SN #0004: Personal Password Policy</itunes:title>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>TWiT</itunes:author>
-			<pubDate>Thu, 08 Sep 2005 19:00:51 PDT</pubDate>
-			<itunes:episode>4</itunes:episode>
-			<podcast:episode>4</podcast:episode>
-			<link>https://www.grc.com/sn/past/2005.htm</link>
-			<comments>https://www.grc.com/sn/past/2005.htm</comments>
-			<category>Help &amp; How To</category>
-			<category>Technology</category>
-			<category>Security</category>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:subtitle>Personal Password Policy</itunes:subtitle>
-			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</itunes:keywords>
-			<description>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-004.pdf">sn-004.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-004.txt">sn-004.txt</a></p> ]]></description>
-			<itunes:summary>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-004.pdf">sn-004.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-004.txt">sn-004.txt</a></p> ]]></itunes:summary>
-			<content:encoded>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.<![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-004.pdf">sn-004.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-004.txt">sn-004.txt</a></p> ]]></content:encoded>
-			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
-			<guid isPermaLink="false">https://media.grc.com/sn/sn-004.mp3</guid>
-			<itunes:duration>24:00</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-004.mp3" length="11701427" type="audio/mpeg"/>
-			<podcast:transcript url="https://www.grc.com/sn/sn-004.txt" type="text/plain" />
-			<media:content url="https://media.grc.com/sn/sn-004.mp3" fileSize="11701427" type="audio/mpeg" medium="audio">
-				<media:title type="plain">Personal Password Policy</media:title>
-				<media:description type="plain">Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</media:description>
-				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
-				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
-				<media:rating scheme="urn:simple">nonadult</media:rating>
-				<media:rating scheme="urn:v-chip">tv-g</media:rating>
-				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
-				<media:credit role="host">Steve Gibson</media:credit>
-				<media:credit role="host">Leo Laporte</media:credit>
-			</media:content>
-				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/smilingsteveheadshot.jpg">Steve Gibson</podcast:person>
-				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
-		</item>
-				<item>
-			<title>SN #0005: Personal Password Policy — Part 2</title>
-			<itunes:title>SN #0005: Personal Password Policy — Part 2</itunes:title>
-			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:author>TWiT</itunes:author>
-			<pubDate>Thu, 15 Sep 2005 19:00:51 PDT</pubDate>
-			<itunes:episode>5</itunes:episode>
-			<podcast:episode>5</podcast:episode>
-			<link>https://www.grc.com/sn/past/2005.htm</link>
-			<comments>https://www.grc.com/sn/past/2005.htm</comments>
-			<category>Help &amp; How To</category>
-			<category>Technology</category>
-			<category>Security</category>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:subtitle>Personal Password Policy — Part 2</itunes:subtitle>
-			<itunes:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</itunes:keywords>
-			<description>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid. <![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-005.pdf">sn-005.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-005.txt">sn-005.txt</a></p> ]]></description>
-			<itunes:summary>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid. <![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-005.pdf">sn-005.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-005.txt">sn-005.txt</a></p> ]]></itunes:summary>
-			<content:encoded>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid. <![CDATA[ <br><p>Show Notes: <a href="https://www.grc.com/sn/sn-005.pdf">sn-004.pdf</a></p><p>Transcript: <a href="https://www.grc.com/sn/sn-005.txt">sn-005.txt</a></p> ]]></content:encoded>
-			<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg"/>
-			<guid isPermaLink="false">https://media.grc.com/sn/sn-005.mp3</guid>
-			<itunes:duration>24:00</itunes:duration>
-			<enclosure url="https://media.grc.com/sn/sn-005.mp3" length="11701427" type="audio/mpeg"/>
-			<podcast:transcript url="https://www.grc.com/sn/sn-005.txt" type="text/plain" />
-			<media:content url="https://media.grc.com/sn/sn-005.mp3" fileSize="11701427" type="audio/mpeg" medium="audio">
-				<media:title type="plain">Personal Password Policy — Part 2</media:title>
-				<media:description type="plain">Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</media:description>
-				<media:keywords>Security Now, TWiT, steve gibson, Leo Laporte, Facebook, Meta, paypal, DDoS, asus, routers, north korea, Vitamin D, cups vilnerability, ublok, UBlock Origin, manifest v2, manifest v3</media:keywords>
-				<media:thumbnail url="https://elroy.twit.tv/sites/default/files/styles/twit_slideshow_400x300/public/images/episodes/2024/10/853604/hero/SN0995_thumbnail.jpg" width="400" height="225" />
-				<media:rating scheme="urn:simple">nonadult</media:rating>
-				<media:rating scheme="urn:v-chip">tv-g</media:rating>
-				<media:category scheme="urn:iab:categories" label="Technology &amp; Computing">IAB19</media:category>
-				<media:credit role="host">Steve Gibson</media:credit>
-				<media:credit role="host">Leo Laporte</media:credit>
-			</media:content>
-				<podcast:person role="host" href="https://twit.tv/people/steve-gibson" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/34/pictures/smilingsteveheadshot.jpg">Steve Gibson</podcast:person>
-				<podcast:person role="host" href="https://twit.tv/people/leo-laporte" img="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/people/21/pictures/leo_1.jpg">Leo Laporte</podcast:person>
-		</item>
-	</channel>
+    <itunes:keywords>TWiT, Technology, Steve Gibson, Leo Laporte, security, spyware, malware, hacking, cyber crime, encryption</itunes:keywords>
+    <rawvoice:rating tv="tv-g">tv-g</rawvoice:rating>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <googleplay:block>No</googleplay:block>
+    <podcast:funding url="https://twit.tv/clubtwit">Become a Club TWiT member!</podcast:funding>
+    <itunes:owner>
+      <itunes:name>Leo Laporte</itunes:name>
+      <itunes:email>distro@twit.tv</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology" />
+    <category>Technology</category>
+    <category>Security</category>
+    <image>
+      <title>Security Now! (Archive)</title>
+      <url>https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg</url>
+      <link>https://twit.tv/shows/security-now</link>
+    </image>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" />
+    <itunes:new-feed-url>https://feeds.twit.tv/sn.xml</itunes:new-feed-url>
+    <rawvoice:subscribe feed="https://feeds.twit.tv/sn.xml" itunes="https://podcasts.apple.com/us/podcast/security-now-mp3/id79016499?uo=10" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
+    <atom:link href="https://feeds.twit.tv/sn.xml" type="application/rss+xml" rel="self" />
+
+    <!-- Episodes -->
+    <item>
+      <title>SN #0001: As the Worm Turns — the first Internet worms of 2005</title>
+      <itunes:title>SN #0001: As the Worm Turns — the first Internet worms of 2005</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Fri, 19 Aug 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <guid isPermaLink="false">sn-001</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>As the Worm Turns — the first Internet worms of 2005</itunes:subtitle>
+      <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</description>
+      <itunes:summary>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</itunes:summary>
+      <enclosure url="https://media.grc.com/sn/sn-001.mp3" length="8724733" type="audio/mpeg" />
+      <itunes:duration>18:10</itunes:duration>
+    </item>
+
+    <item>
+      <title>SN #0002: " HoneyMonkeys "</title>
+      <itunes:title>SN #0002: " HoneyMonkeys "</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 25 Aug 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <guid isPermaLink="false">sn-002</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>" HoneyMonkeys "</itunes:subtitle>
+      <description>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</description>
+      <itunes:summary>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</itunes:summary>
+      <enclosure url="https://media.grc.com/sn/sn-002.mp3" length="12055706" type="audio/mpeg" />
+      <itunes:duration>25:02</itunes:duration>
+    </item>
+
+    <item>
+      <title>SN #0003: NAT Routers as Firewalls</title>
+      <itunes:title>SN #0003: NAT Routers as Firewalls</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 01 Sep 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <guid isPermaLink="false">sn-003</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>NAT Routers as Firewalls</itunes:subtitle>
+      <description>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</description>
+      <itunes:summary>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</itunes:summary>
+      <enclosure url="https://media.grc.com/sn/sn-003.mp3" length="12359498" type="audio/mpeg" />
+      <itunes:duration>25:40</itunes:duration>
+    </item>
+
+    <item>
+      <title>SN #0004: Personal Password Policy</title>
+      <itunes:title>SN #0004: Personal Password Policy</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 08 Sep 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <guid isPermaLink="false">sn-004</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Personal Password Policy</itunes:subtitle>
+      <description>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</description>
+      <itunes:summary>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</itunes:summary>
+      <enclosure url="https://media.grc.com/sn/sn-004.mp3" length="11701427" type="audio/mpeg" />
+      <itunes:duration>24:00</itunes:duration>
+    </item>
+
+    <item>
+      <title>SN #0005: Personal Password Policy — Part 2</title>
+      <itunes:title>SN #0005: Personal Password Policy — Part 2</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 15 Sep 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">sn-005</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Personal Password Policy — Part 2</itunes:subtitle>
+      <description>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</description>
+      <itunes:summary>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</itunes:summary>
+      <enclosure url="https://media.grc.com/sn/sn-005.mp3" length="11701427" type="audio/mpeg" />
+      <itunes:duration>24:00</itunes:duration>
+    </item>
+
+  </channel>
 </rss>
