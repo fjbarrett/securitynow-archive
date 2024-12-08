@@ -45,9 +45,8 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <link>https://github.com/fjbarrett/securitynow-archive</link>
     </image>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" />
-    <itunes:new-feed-url>https://feeds.twit.tv/sn.xml</itunes:new-feed-url>
-    <rawvoice:subscribe feed="https://feeds.twit.tv/sn.xml" itunes="https://podcasts.apple.com/us/podcast/security-now-mp3/id79016499?uo=10" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
-    <atom:link href="https://feeds.twit.tv/sn.xml" type="application/rss+xml" rel="self" />
+    <itunes:new-feed-url>https://raw.githubusercontent.com/fjbarrett/securitynow-archive/refs/heads/main/rss.xml</itunes:new-feed-url>
+    <atom:link href="https://raw.githubusercontent.com/fjbarrett/securitynow-archive/refs/heads/main/rss.xml" type="application/rss+xml" rel="self" />
 
     <!-- Episodes -->
     <item>
