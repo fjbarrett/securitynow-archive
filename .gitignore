@@ -1,5 +1,16 @@
-**/legnthcalc/include
-**/legnthcalc/Lib
-**/legnthcalc/Scripts
-**/legnthcalc/share
-**/legnthcalc/pyvenv.cfg
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
