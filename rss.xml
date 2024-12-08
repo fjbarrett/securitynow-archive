@@ -3,7 +3,7 @@
   <channel>
     <title>Security Now! (Archive)</title>
     <itunes:author>Steve Gibson and Leo Laporte</itunes:author>
-    <link>https://www.grc.com/sn/past/2005.htm</link>
+    <link>https://www.github.com/fjbarrett/securitynow-archive</link>
     <generator>fjbarrett</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en-US</language>
@@ -22,13 +22,12 @@
     <itunes:subtitle>Expert Steve Gibson discusses the current threats, risks, and tech breaches everyone is facing in security today.</itunes:subtitle>
     <itunes:summary>Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must-listen for security professionals every week.
 
-Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</itunes:summary>
+This is an archive maintained on GitHub at github.com/fjbarrett/securitynow-archive. If you discover an error, please feel free to submit a pull request so I can approve for the fix.</itunes:summary>
     <description>Cybersecurity guru Steve Gibson joins Leo Laporte every Tuesday. Steve and Leo break down the latest cybercrime and hacking stories, offering a deep understanding of what's happening and how to protect yourself and your business. Security Now is a must-listen for security professionals every week.
 
-Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</description>
+This is an archive maintained on GitHub at github.com/fjbarrett/securitynow-archive. If you discover an error, please feel free to submit a pull request so I can approve for the fix.</description>
     <itunes:keywords>TWiT, Technology, Steve Gibson, Leo Laporte, security, spyware, malware, hacking, cyber crime, encryption</itunes:keywords>
-    <rawvoice:rating tv="tv-g">tv-g</rawvoice:rating>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:block>no</itunes:block>
     <googleplay:block>No</googleplay:block>
     <podcast:funding url="https://twit.tv/clubtwit">Become a Club TWiT member!</podcast:funding>
@@ -59,7 +58,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <guid isPermaLink="false">sn0001</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>As the Worm Turns — the first Internet worms of 2005</itunes:subtitle>
       <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</description>
       <itunes:summary>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</itunes:summary>
@@ -77,7 +76,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <guid isPermaLink="false">sn0002</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>" HoneyMonkeys "</itunes:subtitle>
       <description>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</description>
       <itunes:summary>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</itunes:summary>
@@ -95,7 +94,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <guid isPermaLink="false">sn0003</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>NAT Routers as Firewalls</itunes:subtitle>
       <description>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</description>
       <itunes:summary>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</itunes:summary>
@@ -113,7 +112,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <guid isPermaLink="false">sn0004</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Personal Password Policy</itunes:subtitle>
       <description>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</description>
       <itunes:summary>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</itunes:summary>
@@ -131,7 +130,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <guid isPermaLink="false">sn0005</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Personal Password Policy — Part 2</itunes:subtitle>
       <description>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</description>
       <itunes:summary>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</itunes:summary>
@@ -149,7 +148,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <guid isPermaLink="false">sn0006</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Mechanical & Electromagnetic Information Leakage</itunes:subtitle>
       <description>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" — from CRT glowing, to radio emissions, to LEDs lamps on the front of network equipment . . . to a microphone listening to anyone typing.</description>
       <itunes:summary>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" — from CRT glowing, to radio emissions, to LEDs lamps on the front of network equipment . . . to a microphone listening to anyone typing.</itunes:summary>
@@ -167,7 +166,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <guid isPermaLink="false">sn0007</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>SPYaWAREness</itunes:subtitle>
       <description>Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware. Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the Episode Notes Page for this episode!</description>
       <itunes:summary>Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware. Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the Episode Notes Page for this episode!</itunes:summary>
