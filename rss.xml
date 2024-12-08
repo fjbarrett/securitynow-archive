@@ -139,5 +139,23 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:duration>19:44</itunes:duration>
     </item>
 
+    <item>
+      <title>SN #0006: Mechanical & Electromagnetic Information Leakage</title>
+      <itunes:title>#0006: Mechanical & Electromagnetic Information Leakage</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 22 Sep 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <guid isPermaLink="false">sn0006</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:subtitle>Mechanical & Electromagnetic Information Leakage</itunes:subtitle>
+      <description>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" — from CRT glowing, to radio emissions, to LEDs lamps on the front of network equipment . . . to a microphone listening to anyone typing.</description>
+      <itunes:summary>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" — from CRT glowing, to radio emissions, to LEDs lamps on the front of network equipment . . . to a microphone listening to anyone typing.</itunes:summary>
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0006.mp3" length="8668963" type="audio/mpeg" />
+      <itunes:duration>17:59</itunes:duration>
+    </item>
+
   </channel>
 </rss>
