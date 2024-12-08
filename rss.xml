@@ -172,5 +172,23 @@
       <itunes:duration>36:00</itunes:duration>
     </item>
 
+    <item>
+      <title>SN #0008: Denial of Service (DoS) Attacks</title>
+      <itunes:title>SN #0008: Denial of Service (DoS) Attacks</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 06 Oct 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <guid isPermaLink="false">sn0008</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Denial of Service (DoS) Attacks</itunes:subtitle>
+      <description>Distributed Denial of Service (DDoS) attacks are occurring with ever-greater frequency every day. Although these damaging attacks are often used to extort high-profile gaming and gambling sites before major gambling events, attacks are also launched against individual users who do something to annoy "zombie fleet masters" while they are online. Some router and firewall vendors claim that their devices prevent DDoS attacks. Is that possible? What can be done to dodge the bullet of a DDoS attack launched against you while you're online?</description>
+      <itunes:summary>Distributed Denial of Service (DDoS) attacks are occurring with ever-greater frequency every day. Although these damaging attacks are often used to extort high-profile gaming and gambling sites before major gambling events, attacks are also launched against individual users who do something to annoy "zombie fleet masters" while they are online. Some router and firewall vendors claim that their devices prevent DDoS attacks. Is that possible? What can be done to dodge the bullet of a DDoS attack launched against you while you're online?</itunes:summary>
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0008.mp3" length="11691246" type="audio/mpeg" />
+      <itunes:duration>24:17</itunes:duration>
+    </item>
+
   </channel>
 </rss>
