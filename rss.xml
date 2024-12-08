@@ -57,12 +57,12 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:author>TWiT</itunes:author>
       <pubDate>Fri, 19 Aug 2005 19:00:51 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
-      <guid isPermaLink="false">sn-001</guid>
+      <guid isPermaLink="false">sn0001</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
       <itunes:explicit>false</itunes:explicit>
       <itunes:subtitle>As the Worm Turns — the first Internet worms of 2005</itunes:subtitle>
-      <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</description>
+      <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security? <a href="https://www.grc.com/sn/notes-001.htm">Show Notes</a></description>
       <itunes:summary>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</itunes:summary>
       <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0001.mp3" length="8724733" type="audio/mpeg" />
       <itunes:duration>18:10</itunes:duration>
@@ -75,14 +75,14 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:author>TWiT</itunes:author>
       <pubDate>Thu, 25 Aug 2005 19:00:51 +0000</pubDate>
       <itunes:episode>2</itunes:episode>
-      <guid isPermaLink="false">sn-002</guid>
+      <guid isPermaLink="false">sn0002</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
       <itunes:explicit>false</itunes:explicit>
       <itunes:subtitle>" HoneyMonkeys "</itunes:subtitle>
       <description>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</description>
       <itunes:summary>How Microsoft's "HoneyMonkey" system works, how it finds malicious web sites before they find you, and what Microsoft is doing (and NOT doing) with this valuable security information it is now collecting.</itunes:summary>
-      <enclosure url="https://media.grc.com/sn/sn-002.mp3" length="12055706" type="audio/mpeg" />
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0002.mp3" length="12055706" type="audio/mpeg" />
       <itunes:duration>25:02</itunes:duration>
     </item>
 
@@ -93,14 +93,14 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:author>TWiT</itunes:author>
       <pubDate>Thu, 01 Sep 2005 19:00:51 +0000</pubDate>
       <itunes:episode>3</itunes:episode>
-      <guid isPermaLink="false">sn-003</guid>
+      <guid isPermaLink="false">sn0003</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
       <itunes:explicit>false</itunes:explicit>
       <itunes:subtitle>NAT Routers as Firewalls</itunes:subtitle>
       <description>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</description>
       <itunes:summary>Most people don't think of common NAT routers as hardware firewalls, but ANY NAT router inherently provides terrific security and protection against incoming malicious traffic. Learn how and why this is, and which default settings MUST be changed to lock down the security of your NAT router.</itunes:summary>
-      <enclosure url="https://media.grc.com/sn/sn-003.mp3" length="12359498" type="audio/mpeg" />
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0003.mp3" length="12359498" type="audio/mpeg" />
       <itunes:duration>25:40</itunes:duration>
     </item>
 
@@ -111,14 +111,14 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:author>TWiT</itunes:author>
       <pubDate>Thu, 08 Sep 2005 19:00:51 +0000</pubDate>
       <itunes:episode>4</itunes:episode>
-      <guid isPermaLink="false">sn-004</guid>
+      <guid isPermaLink="false">sn0004</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
       <itunes:explicit>false</itunes:explicit>
       <itunes:subtitle>Personal Password Policy</itunes:subtitle>
       <description>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</description>
       <itunes:summary>Everyone who uses web-based services such as eBay, Amazon, and Yahoo, needs to authenticate their identity with passwords. Password quality is important since easily guessable passwords can be easily defeated. Leo and I recap a bit from last week's program, then discuss passwords. We suggest an approach that anyone can use to easily create unbreakable passwords.</itunes:summary>
-      <enclosure url="https://media.grc.com/sn/sn-004.mp3" length="8724733" type="audio/mpeg" />
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0004.mp3" length="8724733" type="audio/mpeg" />
       <itunes:duration>24:00</itunes:duration>
     </item>
 
@@ -129,14 +129,14 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:author>TWiT</itunes:author>
       <pubDate>Thu, 15 Sep 2005 19:00:51 +0000</pubDate>
       <itunes:episode>5</itunes:episode>
-      <guid isPermaLink="false">sn-005</guid>
+      <guid isPermaLink="false">sn0005</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
       <itunes:explicit>false</itunes:explicit>
       <itunes:subtitle>Personal Password Policy — Part 2</itunes:subtitle>
       <description>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</description>
       <itunes:summary>Our previous episode (#4), which discussed personal password policies, generated so much great listener feedback, thoughts, ideas, and reminders about things we didn't mention, that we decided to wrap up this important topic with a final episode to share listeners' ideas and to clarify some things we left unsaid.</itunes:summary>
-      <enclosure url="https://media.grc.com/sn/sn-005.mp3" length="9490401" type="audio/mpeg" />
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0005.mp3" length="9490401" type="audio/mpeg" />
       <itunes:duration>24:00</itunes:duration>
     </item>
 
