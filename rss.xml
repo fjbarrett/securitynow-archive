@@ -2,8 +2,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Security Now! (Archive)</title>
-    <itunes:author>Steve Gibson &amp; Leo Laporte</itunes:author>
-    <link>https://www.grc.com/securitynow.htm</link>
+    <itunes:author>Steve Gibson and Leo Laporte</itunes:author>
+    <link>https://www.grc.com/sn/past/2005.htm</link>
     <generator>fjbarrett</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <language>en-US</language>
@@ -42,7 +42,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
     <image>
       <title>Security Now! (Archive)</title>
       <url>https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg</url>
-      <link>https://twit.tv/shows/security-now</link>
+      <link>https://github.com/fjbarrett/securitynow-archive</link>
     </image>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" />
     <itunes:new-feed-url>https://feeds.twit.tv/sn.xml</itunes:new-feed-url>
