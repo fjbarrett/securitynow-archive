@@ -145,7 +145,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>TWiT</itunes:author>
       <pubDate>Thu, 22 Sep 2005 19:00:51 +0000</pubDate>
-      <itunes:episode>5</itunes:episode>
+      <itunes:episode>6</itunes:episode>
       <guid isPermaLink="false">sn0006</guid>
       <link>https://www.grc.com/sn/past/2005.htm</link>
       <category>Technology</category>
@@ -155,6 +155,24 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:summary>Triggered by a recent report of three UC Berkeley researchers recovering text typed at a keyboard (any keyboard) after simply listening to ten minutes of typing, Leo and I discuss the weird realm of "alternative information leakage" — from CRT glowing, to radio emissions, to LEDs lamps on the front of network equipment . . . to a microphone listening to anyone typing.</itunes:summary>
       <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0006.mp3" length="8668963" type="audio/mpeg" />
       <itunes:duration>17:59</itunes:duration>
+    </item>
+
+    <item>
+      <title>SN #0007: SPYaWAREness</title>
+      <itunes:title>SN #0007: SPYaWAREness</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 29 Sep 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <guid isPermaLink="false">sn0007</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:subtitle>SPYaWAREness</itunes:subtitle>
+      <description>Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware. Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the Episode Notes Page for this episode!</description>
+      <itunes:summary>Any contemporary discussion of threats to Internet security must discuss the history, current situation, and future of spyware. Leo and I spend a little more time than usual covering many aspects of this important topic. DON'T MISS the Episode Notes Page for this episode!</itunes:summary>
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0007.mp3" length="17319484" type="audio/mpeg" />
+      <itunes:duration>36:00</itunes:duration>
     </item>
 
   </channel>
