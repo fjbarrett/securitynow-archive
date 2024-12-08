@@ -64,7 +64,7 @@ Records live every Tuesday at 4:30pm Eastern / 1:30pm Pacific / 20:30 UTC.</desc
       <itunes:subtitle>As the Worm Turns — the first Internet worms of 2005</itunes:subtitle>
       <description>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</description>
       <itunes:summary>How a never-disclosed Windows vulnerability was quickly reverse-engineered from the patches to fix it and turned into more than 12 potent and damaging Internet worms in three days. What does this mean for the future of Internet security?</itunes:summary>
-      <enclosure url="https://media.grc.com/sn/sn-001.mp3" length="8724733" type="audio/mpeg" />
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0001.mp3" length="8724733" type="audio/mpeg" />
       <itunes:duration>18:10</itunes:duration>
     </item>
 
