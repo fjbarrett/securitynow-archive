@@ -202,10 +202,28 @@
       <category>Technology</category>
       <itunes:explicit>no</itunes:explicit>
       <itunes:subtitle>Rootkits</itunes:subtitle>
-      <description>This week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions</description>
+      <description>This week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.</description>
       <itunes:summary>This week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.</itunes:summary>
       <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0009.mp3" length="15548382" type="audio/mpeg" />
       <itunes:duration>32:19</itunes:duration>
+    </item>
+
+    <item>
+      <title>SN #0010: Open Wireless Access Points</title>
+      <itunes:title>SN #0010: Open Wireless Access Points</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 20 Oct 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
+      <guid isPermaLink="false">sn0010</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Open Wireless Access Points</itunes:subtitle>
+      <description>Leo and I examine the security and privacy considerations of using non-encrypted (i.e. 'Open') wireless access points at home and in public locations. We discuss the various ways of protecting privacy when untrusted strangers can 'sniff' the data traffic flowing to and from your online PC.</description>
+      <itunes:summary>Leo and I examine the security and privacy considerations of using non-encrypted (i.e. 'Open') wireless access points at home and in public locations. We discuss the various ways of protecting privacy when untrusted strangers can 'sniff' the data traffic flowing to and from your online PC.</itunes:summary>
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0010.mp3" length="13644578" type="audio/mpeg" />
+      <itunes:duration>28:21</itunes:duration>
     </item>
 
   </channel>
