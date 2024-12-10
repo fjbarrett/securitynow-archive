@@ -190,5 +190,23 @@
       <itunes:duration>24:17</itunes:duration>
     </item>
 
+    <item>
+      <title>SN #0009: Rootkits</title>
+      <itunes:title>SN #0009: Rootkits</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>TWiT</itunes:author>
+      <pubDate>Thu, 06 Oct 2005 19:00:51 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <guid isPermaLink="false">sn0009</guid>
+      <link>https://www.grc.com/sn/past/2005.htm</link>
+      <category>Technology</category>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Rootkits</itunes:subtitle>
+      <description>This week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions</description>
+      <itunes:summary>This week we discuss "rootkit technology". We examine what rootkits are, why they have suddenly become a problem, and how that problem is rapidly growing in severity. We also discuss their detection and removal and point listeners to some very effective free rootkit detection solutions.</itunes:summary>
+      <enclosure url="https://github.com/fjbarrett/securitynow-archive/raw/refs/heads/main/episodes/64kbps/sn0009.mp3" length="15548382" type="audio/mpeg" />
+      <itunes:duration>32:19</itunes:duration>
+    </item>
+
   </channel>
 </rss>
